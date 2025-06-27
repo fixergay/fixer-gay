@@ -311,3 +311,7 @@
 [27Jun2025 18:56:44.343] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Byakko4146 has made the advancement [Fishy Business]
 [27Jun2025 20:26:39.741] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Byakko4146 lost connection: Timed out
 [27Jun2025 20:26:39.742] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Byakko4146 left the game
+[27Jun2025 20:44:14.826] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Byakko4146[/100.91.177.8:50187] logged in with entity id 36684 at (-371.5, 64.0, 622.5)
+[27Jun2025 20:44:14.880] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Byakko4146 joined the game
+[27Jun2025 20:44:14.918] [Server thread/INFO] [Jade/]: Syncing config to Byakko4146 (54f84238-5ece-3772-b096-bb6c9aa44f2d)
+[27Jun2025 20:44:20.551] [Server thread/INFO] [ping-wheel/]: Channel update: Byakko4146 -> default
