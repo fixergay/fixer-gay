@@ -1273,6 +1273,7 @@
       "minecraft:spider": "2025-06-25 03:21:47 +0000",
       "minecraft:piglin_brute": "2025-06-27 02:58:55 +0000",
       "minecraft:creeper": "2025-06-25 20:29:42 +0000",
+      "minecraft:phantom": "2025-06-27 04:26:57 +0000",
       "minecraft:witch": "2025-06-26 18:30:19 +0000",
       "minecraft:wither_skeleton": "2025-06-27 03:51:18 +0000",
       "minecraft:cave_spider": "2025-06-25 03:02:53 +0000",
@@ -6483,6 +6484,12 @@
   "minecraft:story/enter_the_nether": {
     "criteria": {
       "entered_nether": "2025-06-27 02:36:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/pink_dye_from_pink_tulip": {
+    "criteria": {
+      "has_pink_tulip": "2025-06-27 04:28:31 +0000"
     },
     "done": true
   },

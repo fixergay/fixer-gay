@@ -4583,6 +4583,18 @@
     },
     "done": true
   },
+  "tconstruct:recipes/decorations/smeltery/scorched/basin": {
+    "criteria": {
+      "has_item": "2025-06-27 04:21:07 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/building_blocks/smeltery/scorched/scorched_bricks_from_brick": {
+    "criteria": {
+      "has_item": "2025-06-27 04:21:07 +0000"
+    },
+    "done": true
+  },
   "tconstruct:foundry/fantastic_foundry": {
     "criteria": {
       "crafted_book": "2025-06-27 04:16:04 +0000"
@@ -4613,9 +4625,27 @@
     },
     "done": true
   },
+  "tconstruct:recipes/decorations/smeltery/scorched/lantern": {
+    "criteria": {
+      "has_item": "2025-06-27 04:21:07 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/building_blocks/brimstone_brick_stairs_from_brimstone_stonecutting": {
     "criteria": {
       "has_brimstone": "2025-06-27 02:42:37 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/building_blocks/smeltery/scorched/scorched_soul_glass": {
+    "criteria": {
+      "has_item": "2025-06-27 04:21:07 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/redstone/smeltery/scorched/ingot_gauge": {
+    "criteria": {
+      "has_item": "2025-06-27 04:21:07 +0000"
     },
     "done": true
   },
@@ -4631,6 +4661,18 @@
     },
     "done": true
   },
+  "tconstruct:recipes/redstone/smeltery/scorched/fuel_gauge": {
+    "criteria": {
+      "has_item": "2025-06-27 04:21:07 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/decorations/smeltery/scorched/alloyer": {
+    "criteria": {
+      "has_item": "2025-06-27 04:21:07 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/ol_betsy": {
     "criteria": {
       "shot_crossbow": "2025-06-27 03:00:51 +0000"
@@ -4640,6 +4682,18 @@
   "farmersdelight:recipes/misc/gold_nugget_from_smelting_knife": {
     "criteria": {
       "has_golden_knife": "2025-06-27 03:56:26 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/building_blocks/smeltery/scorched/scorched_tinted_glass": {
+    "criteria": {
+      "has_item": "2025-06-27 04:21:07 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/decorations/smeltery/scorched/table": {
+    "criteria": {
+      "has_item": "2025-06-27 04:21:07 +0000"
     },
     "done": true
   },
@@ -4660,6 +4714,15 @@
       "has_nether_bricks": "2025-06-27 03:09:48 +0000"
     },
     "done": true
+  },
+  "tconstruct:foundry/alloyer": {
+    "criteria": {
+      "scorched_fuel_tank": "2025-06-27 04:25:54 +0000",
+      "scorched_alloyer": "2025-06-27 04:26:08 +0000",
+      "scorched_ingot_tank": "2025-06-27 04:28:02 +0000",
+      "scorched_table": "2025-06-27 04:25:49 +0000"
+    },
+    "done": false
   },
   "minecraft:recipes/redstone/redstone_lamp": {
     "criteria": {
@@ -4700,6 +4763,12 @@
   "minecraft:recipes/decorations/nether_brick_wall": {
     "criteria": {
       "has_nether_bricks": "2025-06-27 03:09:48 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/redstone/smeltery/scorched/ingot_tank": {
+    "criteria": {
+      "has_item": "2025-06-27 04:21:07 +0000"
     },
     "done": true
   },
@@ -4758,6 +4827,12 @@
     },
     "done": true
   },
+  "tconstruct:recipes/redstone/smeltery/scorched/fuel_tank": {
+    "criteria": {
+      "has_item": "2025-06-27 04:21:07 +0000"
+    },
+    "done": true
+  },
   "tconstruct:recipes/building_blocks/common/slime/earth/congealed": {
     "criteria": {
       "has_item": "2025-06-27 03:21:24 +0000"
@@ -4800,6 +4875,12 @@
     },
     "done": true
   },
+  "tconstruct:recipes/redstone/smeltery/scorched/chute": {
+    "criteria": {
+      "has_item": "2025-06-27 04:21:07 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/building_blocks/rose_quartz_block": {
     "criteria": {
       "has_rose_quartz_chunk": "2025-06-27 02:54:08 +0000"
@@ -4839,6 +4920,12 @@
   "minecraft:recipes/building_blocks/cracked_nether_bricks": {
     "criteria": {
       "has_nether_bricks": "2025-06-27 03:09:48 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/building_blocks/smeltery/scorched/scorched_ladder": {
+    "criteria": {
+      "has_item": "2025-06-27 04:21:07 +0000"
     },
     "done": true
   },
@@ -4902,9 +4989,21 @@
     },
     "done": true
   },
+  "tconstruct:recipes/redstone/smeltery/scorched/drain": {
+    "criteria": {
+      "has_item": "2025-06-27 04:21:07 +0000"
+    },
+    "done": true
+  },
   "tconstruct:recipes/misc/common/materials/raw_cobalt_block_from_raws": {
     "criteria": {
       "has_item": "2025-06-27 03:48:40 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/redstone/smeltery/scorched/channel": {
+    "criteria": {
+      "has_item": "2025-06-27 04:21:07 +0000"
     },
     "done": true
   },
@@ -4917,6 +5016,12 @@
   "minecraft:recipes/building_blocks/nether_brick_slab_from_nether_bricks_stonecutting": {
     "criteria": {
       "has_nether_bricks": "2025-06-27 03:09:48 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/building_blocks/smeltery/scorched/scorched_glass": {
+    "criteria": {
+      "has_item": "2025-06-27 04:21:07 +0000"
     },
     "done": true
   },
@@ -4937,6 +5042,12 @@
       "in_ruins_nether": "2025-06-27 04:02:29 +0000"
     },
     "done": false
+  },
+  "tconstruct:recipes/redstone/smeltery/scorched/faucet": {
+    "criteria": {
+      "has_item": "2025-06-27 04:21:07 +0000"
+    },
+    "done": true
   },
   "DataVersion": 3465
 }
