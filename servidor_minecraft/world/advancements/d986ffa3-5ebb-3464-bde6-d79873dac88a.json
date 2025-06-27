@@ -3163,7 +3163,8 @@
       "adze_head": "2025-06-26 02:05:29 +0000",
       "small_axe_head": "2025-06-26 02:04:41 +0000",
       "broad_blade": "2025-06-26 02:03:05 +0000",
-      "tool_handle": "2025-06-26 02:03:47 +0000"
+      "tool_handle": "2025-06-26 02:03:47 +0000",
+      "ingot": "2025-06-27 04:37:27 +0000"
     },
     "done": false
   },
@@ -4571,6 +4572,78 @@
     },
     "done": true
   },
+  "incendium:technical/sentrys_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-06-27 04:46:34 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_player_hurt": {
+    "criteria": {
+      "log_spam_fixer": "2025-06-27 04:46:34 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_kill": {
+    "criteria": {
+      "log_spam_fixer": "2025-06-27 04:46:34 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_inventory_change": {
+    "criteria": {
+      "log_spam_fixer": "2025-06-27 04:46:34 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/holy_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-06-27 04:46:34 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_block": {
+    "criteria": {
+      "log_spam_fixer": "2025-06-27 04:46:34 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/inventory/sentrys_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-06-27 04:46:34 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/feed_ghastling": {
+    "criteria": {
+      "log_spam_fixer": "2025-06-27 04:46:34 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/firestorm": {
+    "criteria": {
+      "log_spam_fixer": "2025-06-27 04:46:34 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/inventory/firestorm": {
+    "criteria": {
+      "log_spam_fixer": "2025-06-27 04:46:34 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/give_ghastling": {
+    "criteria": {
+      "log_spam_fixer": "2025-06-27 04:46:34 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/multiplex_crossbow": {
+    "criteria": {
+      "log_spam_fixer": "2025-06-27 04:46:34 +0000"
+    },
+    "done": false
+  },
   "incendium:withered_forest/kill_spirit": {
     "criteria": {
       "requirement": "2025-06-27 03:20:53 +0000"
@@ -4661,6 +4734,12 @@
     },
     "done": true
   },
+  "tconstruct:recipes/misc/common/slime/sky/slimeball_from_block": {
+    "criteria": {
+      "has_item": "2025-06-27 04:33:15 +0000"
+    },
+    "done": true
+  },
   "tconstruct:recipes/redstone/smeltery/scorched/fuel_gauge": {
     "criteria": {
       "has_item": "2025-06-27 04:21:07 +0000"
@@ -4720,7 +4799,8 @@
       "scorched_fuel_tank": "2025-06-27 04:25:54 +0000",
       "scorched_alloyer": "2025-06-27 04:26:08 +0000",
       "scorched_ingot_tank": "2025-06-27 04:28:02 +0000",
-      "scorched_table": "2025-06-27 04:25:49 +0000"
+      "scorched_table": "2025-06-27 04:25:49 +0000",
+      "scorched_faucet": "2025-06-27 04:44:02 +0000"
     },
     "done": false
   },
@@ -5031,6 +5111,12 @@
     },
     "done": true
   },
+  "tconstruct:smeltery/mighty_smelting": {
+    "criteria": {
+      "crafted_book": "2025-06-27 04:30:13 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/snow_block": {
     "criteria": {
       "has_snowball": "2025-06-27 03:20:53 +0000"
@@ -5046,6 +5132,12 @@
   "tconstruct:recipes/redstone/smeltery/scorched/faucet": {
     "criteria": {
       "has_item": "2025-06-27 04:21:07 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/misc/common/slime/sky/slimeball_from_congealed": {
+    "criteria": {
+      "has_item": "2025-06-27 04:32:55 +0000"
     },
     "done": true
   },
