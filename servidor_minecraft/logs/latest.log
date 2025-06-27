@@ -309,3 +309,5 @@
 [27Jun2025 18:51:07.798] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Byakko4146 has made the advancement [Enchanter]
 [27Jun2025 18:52:19.346] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Byakko4146: Teleported Byakko4146 to -362.500000, 64.500000, 610.500000]
 [27Jun2025 18:56:44.343] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Byakko4146 has made the advancement [Fishy Business]
+[27Jun2025 20:26:39.741] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Byakko4146 lost connection: Timed out
+[27Jun2025 20:26:39.742] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Byakko4146 left the game
