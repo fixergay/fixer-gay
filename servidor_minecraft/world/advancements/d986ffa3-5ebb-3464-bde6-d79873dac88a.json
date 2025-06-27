@@ -974,6 +974,7 @@
     "criteria": {
       "minecraft:skeleton": "2025-06-25 03:31:36 +0000",
       "minecraft:ghast": "2025-06-27 03:22:56 +0000",
+      "minecraft:hoglin": "2025-06-27 03:59:15 +0000",
       "minecraft:magma_cube": "2025-06-26 19:44:15 +0000",
       "minecraft:spider": "2025-06-25 02:23:01 +0000",
       "minecraft:piglin_brute": "2025-06-26 19:54:50 +0000",
@@ -4630,15 +4631,33 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/misc/gold_nugget_from_smelting_knife": {
+    "criteria": {
+      "has_golden_knife": "2025-06-27 03:56:26 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/lime_stained_glass_pane": {
     "criteria": {
       "has_glass": "2025-06-27 03:23:19 +0000"
     },
     "done": true
   },
+  "farmersdelight:main/get_ham": {
+    "criteria": {
+      "ham": "2025-06-27 03:56:26 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/chiseled_nether_bricks_from_nether_bricks_stonecutting": {
     "criteria": {
       "has_nether_bricks": "2025-06-27 03:09:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/redstone_lamp": {
+    "criteria": {
+      "has_glowstone": "2025-06-27 03:56:26 +0000"
     },
     "done": true
   },
@@ -4660,6 +4679,18 @@
     },
     "done": true
   },
+  "tconstruct:recipes/misc/common/materials/cobalt_ingot_smelting": {
+    "criteria": {
+      "has_item": "2025-06-27 03:48:40 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/craft_knife": {
+    "criteria": {
+      "golden_knife": "2025-06-27 03:56:26 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/nether_brick_wall": {
     "criteria": {
       "has_nether_bricks": "2025-06-27 03:09:48 +0000"
@@ -4675,6 +4706,12 @@
   "minecraft:nether/obtain_crying_obsidian": {
     "criteria": {
       "crying_obsidian": "2025-06-27 03:19:08 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/smoked_ham": {
+    "criteria": {
+      "has_ham": "2025-06-27 03:56:26 +0000"
     },
     "done": true
   },
@@ -4799,6 +4836,12 @@
     },
     "done": true
   },
+  "repurposed_structures:pyramids": {
+    "criteria": {
+      "in_pyramid_nether": "2025-06-27 03:51:12 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/building_blocks/nether_bricks": {
     "criteria": {
       "has_nether_brick": "2025-06-27 03:19:09 +0000"
@@ -4808,6 +4851,12 @@
   "minecraft:recipes/decorations/respawn_anchor": {
     "criteria": {
       "has_obsidian": "2025-06-27 03:19:08 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/misc/gold_nugget_from_blasting_knife": {
+    "criteria": {
+      "has_golden_knife": "2025-06-27 03:56:26 +0000"
     },
     "done": true
   },
@@ -4826,6 +4875,12 @@
   "minecraft:recipes/decorations/soul_campfire": {
     "criteria": {
       "has_soul_sand": "2025-06-27 03:10:58 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/misc/common/materials/raw_cobalt_block_from_raws": {
+    "criteria": {
+      "has_item": "2025-06-27 03:48:40 +0000"
     },
     "done": true
   },
@@ -4852,6 +4907,12 @@
       "has_snowball": "2025-06-27 03:20:53 +0000"
     },
     "done": true
+  },
+  "repurposed_structures:ruins": {
+    "criteria": {
+      "in_ruins_nether": "2025-06-27 04:02:29 +0000"
+    },
+    "done": false
   },
   "DataVersion": 3465
 }

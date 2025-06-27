@@ -369,3 +369,30 @@
 [27Jun2025 03:30:48.964] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of Byakko4146) moved wrongly! 0.40182215411576294
 [27Jun2025 03:30:49.015] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of Byakko4146) moved wrongly! 1.0
 [27Jun2025 03:32:44.409] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Byakko4146 has made the advancement [Hidden in the Depths]
+[27Jun2025 03:41:27.731] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of Byakko4146) moved wrongly! 0.44771171147932876
+[27Jun2025 03:41:27.779] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of Byakko4146) moved wrongly! 0.9193315521467582
+[27Jun2025 03:41:27.833] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of Byakko4146) moved wrongly! 1.3953319791958307
+[27Jun2025 03:41:27.867] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of Byakko4146) moved wrongly! 1.873676370678254
+[27Jun2025 03:42:18.390] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Vex['Restless Spirit'/35739, l='ServerLevel[world]', x=173.65, y=-20.00, z=231.58] died: Restless Spirit was killed
+[27Jun2025 03:42:39.712] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of Byakko4146) moved wrongly! 0.2753682660448362
+[27Jun2025 03:42:39.759] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of Byakko4146) moved wrongly! 0.47548659381112657
+[27Jun2025 03:42:39.822] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of Byakko4146) moved wrongly! 0.5825659210698291
+[27Jun2025 03:42:39.860] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of Byakko4146) moved wrongly! 0.63986193415451
+[27Jun2025 03:44:15.389] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Vex['Restless Spirit'/36814, l='ServerLevel[world]', x=98.08, y=-20.00, z=227.53] died: Restless Spirit was killed
+[27Jun2025 03:44:27.006] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Vex['Restless Spirit'/38112, l='ServerLevel[world]', x=116.95, y=87.17, z=211.17] died: Restless Spirit was blown up by Ghast
+[27Jun2025 03:44:35.610] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Vex['Restless Spirit'/38114, l='ServerLevel[world]', x=114.99, y=85.60, z=235.21] died: Restless Spirit was blown up by Ghast
+[27Jun2025 03:44:42.390] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Vex['Restless Spirit'/37025, l='ServerLevel[world]', x=116.85, y=-20.00, z=208.01] died: Restless Spirit was killed
+[27Jun2025 03:44:51.389] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Vex['Restless Spirit'/37175, l='ServerLevel[world]', x=131.65, y=-20.00, z=170.11] died: Restless Spirit was killed
+[27Jun2025 03:45:07.134] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of Byakko4146) moved wrongly! 0.3882447631917785
+[27Jun2025 03:45:07.208] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of Byakko4146) moved wrongly! 0.9660433717225203
+[27Jun2025 03:45:07.258] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of Byakko4146) moved wrongly! 1.5465943599130867
+[27Jun2025 03:47:53.416] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Byakko4146 has made the advancement [Who is Cutting Onions?]
+[27Jun2025 03:48:06.389] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Vex['Restless Spirit'/38642, l='ServerLevel[world]', x=121.21, y=-20.00, z=211.09] died: Restless Spirit was killed
+[27Jun2025 03:48:49.390] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Vex['Restless Spirit'/39026, l='ServerLevel[world]', x=148.38, y=-20.00, z=241.74] died: Restless Spirit was killed
+[27Jun2025 03:49:03.390] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Vex['Restless Spirit'/39118, l='ServerLevel[world]', x=157.54, y=-20.00, z=252.16] died: Restless Spirit was killed
+[27Jun2025 03:51:54.157] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=335, y=81, z=127} BlockPos{x=335, y=83, z=127}
+[27Jun2025 03:53:16.408] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=343, y=81, z=121} BlockPos{x=342, y=81, z=121}
+[27Jun2025 03:56:26.862] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MetaPresi has made the advancement [Hunt and Gather]
+[27Jun2025 04:05:45.171] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2382ms or 47 ticks behind
+[27Jun2025 04:08:27.105] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Byakko4146 has reached the goal [Blood Island]
+[27Jun2025 04:10:15.121] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3182ms or 63 ticks behind
