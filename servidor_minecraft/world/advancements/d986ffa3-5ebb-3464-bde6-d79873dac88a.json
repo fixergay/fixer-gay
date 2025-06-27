@@ -184,8 +184,10 @@
       "woodland": "2025-06-25 03:57:59 +0000",
       "shrubland": "2025-06-25 02:39:24 +0000",
       "scrubland": "2025-06-25 02:15:17 +0000",
+      "erupting_inferno": "2025-06-27 02:41:36 +0000",
       "lush_savanna": "2025-06-26 03:50:40 +0000",
       "old_growth_woodland": "2025-06-25 02:08:39 +0000",
+      "crystalline_chasm": "2025-06-27 02:44:03 +0000",
       "withered_abyss": "2025-06-26 19:49:10 +0000",
       "mediterranean_forest": "2025-06-25 02:18:36 +0000",
       "wasteland": "2025-06-26 03:46:09 +0000",
@@ -4447,7 +4449,8 @@
   },
   "incendium:misc/soul_searcher": {
     "criteria": {
-      "incendium:ash_barrens": "2025-06-26 19:52:50 +0000"
+      "incendium:ash_barrens": "2025-06-26 19:52:50 +0000",
+      "incendium:weeping_valley": "2025-06-27 02:48:51 +0000"
     },
     "done": false
   },
@@ -4556,6 +4559,42 @@
   "minecraft:recipes/decorations/polished_blackstone_brick_wall_from_polished_blackstone_bricks_stonecutting": {
     "criteria": {
       "has_polished_blackstone_bricks": "2025-06-26 19:59:24 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/building_blocks/brimstone_brick_stairs_from_brimstone_stonecutting": {
+    "criteria": {
+      "has_brimstone": "2025-06-27 02:42:37 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/building_blocks/brimstone_brick_slab_from_brimstone_stonecutting": {
+    "criteria": {
+      "has_brimstone": "2025-06-27 02:42:37 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/decorations/brimstone_brick_wall_from_brimstone_stonecutting": {
+    "criteria": {
+      "has_brimstone": "2025-06-27 02:42:37 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/building_blocks/chiseled_brimstone_bricks_from_brimstone_stonecutting": {
+    "criteria": {
+      "has_brimstone": "2025-06-27 02:42:37 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/building_blocks/brimstone_bricks_from_brimstone_stonecutting": {
+    "criteria": {
+      "has_brimstone": "2025-06-27 02:42:37 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/building_blocks/brimstone_bricks": {
+    "criteria": {
+      "has_brimstone": "2025-06-27 02:42:37 +0000"
     },
     "done": true
   },

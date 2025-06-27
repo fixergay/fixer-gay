@@ -306,3 +306,8 @@
 [27Jun2025 02:28:27.992] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MetaPresi joined the game
 [27Jun2025 02:28:28.051] [Server thread/INFO] [Jade/]: Syncing config to MetaPresi (d986ffa3-5ebb-3464-bde6-d79873dac88a)
 [27Jun2025 02:28:28.799] [Server thread/INFO] [ping-wheel/]: Channel update: MetaPresi -> default
+[27Jun2025 02:36:09.477] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Byakko4146 has made the advancement [Incendium]
+[27Jun2025 02:36:09.479] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Byakko4146 has made the advancement [We Need to Go Deeper]
+[27Jun2025 02:36:14.555] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6767ms or 135 ticks behind
+[27Jun2025 02:39:16.391] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Vex['Restless Spirit'/9745, l='ServerLevel[world]', x=147.86, y=-20.00, z=189.86] died: Restless Spirit was killed
+[27Jun2025 02:48:50.964] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Byakko4146 has made the advancement [Strange Biomes]
