@@ -2520,8 +2520,10 @@
       "necrotic_bone": "2025-06-27 04:03:01 +0000",
       "rose_gold": "2025-06-27 03:01:25 +0000",
       "whitestone": "2025-06-27 03:01:25 +0000",
+      "slimesteel": "2025-06-27 04:14:54 +0000",
       "queens_slime": "2025-06-26 04:53:48 +0000",
       "bone": "2025-06-26 23:13:45 +0000",
+      "pig_iron": "2025-06-27 04:14:54 +0000",
       "flint": "2025-06-25 04:32:21 +0000"
     },
     "done": false
@@ -6166,6 +6168,12 @@
   "minecraft:recipes/misc/netherite_scrap_from_blasting": {
     "criteria": {
       "has_ancient_debris": "2025-06-27 03:32:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/yellow_stained_glass_pane": {
+    "criteria": {
+      "has_glass": "2025-06-27 04:16:59 +0000"
     },
     "done": true
   },

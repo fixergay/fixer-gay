@@ -4583,6 +4583,12 @@
     },
     "done": true
   },
+  "tconstruct:foundry/fantastic_foundry": {
+    "criteria": {
+      "crafted_book": "2025-06-27 04:16:04 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/cooking/mushroom_stew": {
     "criteria": {
       "has_any_ingredient": "2025-06-27 03:37:12 +0000"
@@ -4715,6 +4721,12 @@
     },
     "done": true
   },
+  "tconstruct:recipes/building_blocks/smeltery/scorched/scorched_brick": {
+    "criteria": {
+      "has_item": "2025-06-27 04:15:09 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/netherite_upgrade_smithing_template": {
     "criteria": {
       "has_netherite_upgrade_smithing_template": "2025-06-27 02:58:32 +0000"
@@ -4806,6 +4818,12 @@
     },
     "done": true
   },
+  "tconstruct:recipes/smeltery/scorched/scorched_brick_kiln": {
+    "criteria": {
+      "has_item": "2025-06-27 04:15:09 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/lead": {
     "criteria": {
       "has_slime_ball": "2025-06-27 03:21:24 +0000"
@@ -4851,6 +4869,12 @@
   "minecraft:recipes/decorations/respawn_anchor": {
     "criteria": {
       "has_obsidian": "2025-06-27 03:19:08 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/misc/common/fantastic_foundry": {
+    "criteria": {
+      "has_item": "2025-06-27 04:15:09 +0000"
     },
     "done": true
   },
