@@ -21,7 +21,14 @@
     "disableMobDamage": true,
     "disablePlayerDamage": false,
     "disableOtherDamage": false,
-    "hasShaderEffect": true
+    "hasShaderEffect": true,
+    "changePermissionLevel": false,
+    "permissionLevel": 0,
+    "canBePushed": true,
+    "disableAllGUIAccess": false,
+    "disableInventoryAccess": false,
+    "disableChatAccess": false,
+    "disableServerCommands": false
   },
   "revive": {
     "requiredReviveProgress": 100.0,
@@ -60,7 +67,8 @@
     "gorgon",
     "death.attack.sgcraft:transient",
     "death.attack.sgcraft:iris",
-    "vampirism_dbno"
+    "vampirism_dbno",
+    "hordes:infection"
   ],
   "bleedInSingleplayer": false
 }
