@@ -325,3 +325,28 @@
 [27Jun2025 02:57:33.009] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Byakko4146 has made the advancement [The Dust Settles]
 [27Jun2025 02:57:59.055] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Byakko4146 has made the advancement [Those Were the Days]
 [27Jun2025 02:58:32.511] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MetaPresi has made the advancement [Hidden in the Depths]
+[27Jun2025 03:00:51.866] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MetaPresi has made the advancement [Ol' Betsy]
+[27Jun2025 03:01:22.015] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Byakko4146 has made the advancement [War Pigs]
+[27Jun2025 03:04:55.082] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
+[27Jun2025 03:10:11.617] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Byakko4146 has reached the goal [Pocket Edition Alpha]
+[27Jun2025 03:10:34.390] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Vex['Restless Spirit'/22850, l='ServerLevel[world]', x=164.07, y=-20.00, z=193.66] died: Restless Spirit was killed
+[27Jun2025 03:11:02.667] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Byakko4146 tried to swim in lava to escape Ghast Sentry
+[27Jun2025 03:11:02.681] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for Byakko4146 with unique ID travelersbackpack.standard_27.06.2025-03.11.02.dat
+[27Jun2025 03:11:02.689] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(167, 33, 149) minecraft:the_nether
+[27Jun2025 03:11:42.058] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Made Byakko4146 a server operator
+[27Jun2025 03:11:48.587] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Byakko4146: Teleported Byakko4146 to MetaPresi]
+[27Jun2025 03:12:04.187] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Byakko4146: Teleported Byakko4146 to MetaPresi]
+[27Jun2025 03:12:27.668] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Byakko4146 tried to swim in lava
+[27Jun2025 03:12:27.671] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(174, 34, 170) minecraft:the_nether
+[27Jun2025 03:12:43.039] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Byakko4146: Teleported Byakko4146 to MetaPresi]
+[27Jun2025 03:13:11.390] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Vex['Restless Spirit'/23846, l='ServerLevel[world]', x=122.25, y=-20.00, z=190.16] died: Restless Spirit was killed
+[27Jun2025 03:13:25.712] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MetaPresi has reached the goal [Pocket Edition Alpha]
+[27Jun2025 03:15:15.390] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Vex['Restless Spirit'/24959, l='ServerLevel[world]', x=158.61, y=-20.00, z=191.98] died: Restless Spirit was killed
+[27Jun2025 03:15:50.390] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Vex['Restless Spirit'/25105, l='ServerLevel[world]', x=94.25, y=-20.00, z=215.25] died: Restless Spirit was killed
+[27Jun2025 03:16:51.923] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity WitherSkeleton['Radiation Director'/22461, l='ServerLevel[world]', x=120.96, y=37.00, z=182.52] died: Radiation Director was slain by MetaPresi
+[27Jun2025 03:17:22.415] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Byakko4146 tried to swim in lava to escape Ghast Sentry
+[27Jun2025 03:17:22.418] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(159, 33, 138) minecraft:the_nether
+[27Jun2025 03:17:39.391] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Vex['Restless Spirit'/25629, l='ServerLevel[world]', x=184.61, y=-20.00, z=184.27] died: Restless Spirit was killed
+[27Jun2025 03:18:24.083] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity WitherSkeleton['Radiation Director'/22505, l='ServerLevel[world]', x=129.70, y=33.00, z=191.77] died: Radiation Director was slain by MetaPresi
+[27Jun2025 03:18:50.376] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Byakko4146: Teleported Byakko4146 to 181.500000, 32.500000, 200.500000]
+[27Jun2025 03:19:08.932] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MetaPresi has made the advancement [Who is Cutting Onions?]

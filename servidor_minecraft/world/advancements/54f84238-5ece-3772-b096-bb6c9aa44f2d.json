@@ -84,6 +84,7 @@
       "wetland": "2025-06-26 18:37:54 +0000",
       "old_growth_woodland": "2025-06-25 02:07:37 +0000",
       "crystalline_chasm": "2025-06-27 02:44:02 +0000",
+      "withered_abyss": "2025-06-27 03:07:21 +0000",
       "field": "2025-06-26 18:39:14 +0000",
       "mediterranean_forest": "2025-06-25 02:16:01 +0000",
       "coniferous_forest": "2025-06-26 18:40:08 +0000",
@@ -1267,11 +1268,13 @@
       "minecraft:skeleton": "2025-06-25 20:40:52 +0000",
       "minecraft:ghast": "2025-06-27 02:43:54 +0000",
       "minecraft:vindicator": "2025-06-26 18:14:11 +0000",
+      "minecraft:magma_cube": "2025-06-27 03:00:46 +0000",
       "minecraft:spider": "2025-06-25 03:21:47 +0000",
       "minecraft:piglin_brute": "2025-06-27 02:58:55 +0000",
       "minecraft:creeper": "2025-06-25 20:29:42 +0000",
       "minecraft:witch": "2025-06-26 18:30:19 +0000",
       "minecraft:cave_spider": "2025-06-25 03:02:53 +0000",
+      "minecraft:piglin": "2025-06-27 02:59:28 +0000",
       "minecraft:silverfish": "2025-06-25 06:05:25 +0000",
       "minecraft:enderman": "2025-06-26 01:25:13 +0000",
       "minecraft:vex": "2025-06-27 02:50:57 +0000",
@@ -2508,8 +2511,12 @@
     "criteria": {
       "string": "2025-06-26 23:15:45 +0000",
       "slimewood": "2025-06-26 04:53:48 +0000",
+      "ancient_hide": "2025-06-27 03:01:31 +0000",
+      "manyullyn": "2025-06-27 03:01:31 +0000",
       "copper": "2025-06-25 04:32:21 +0000",
       "wood": "2025-06-25 04:32:21 +0000",
+      "rose_gold": "2025-06-27 03:01:25 +0000",
+      "whitestone": "2025-06-27 03:01:25 +0000",
       "queens_slime": "2025-06-26 04:53:48 +0000",
       "bone": "2025-06-26 23:13:45 +0000",
       "flint": "2025-06-25 04:32:21 +0000"
@@ -4109,7 +4116,9 @@
   },
   "tconstruct:world/slime_collector": {
     "criteria": {
-      "sky": "2025-06-25 19:40:31 +0000"
+      "sky": "2025-06-25 19:40:31 +0000",
+      "magma_cream": "2025-06-27 03:00:56 +0000",
+      "earth": "2025-06-27 03:14:16 +0000"
     },
     "done": false
   },
@@ -4863,6 +4872,7 @@
   },
   "tconstruct:world/ancient_tools": {
     "criteria": {
+      "battlesign": "2025-06-27 03:01:25 +0000",
       "melting_pan": "2025-06-26 04:53:48 +0000"
     },
     "done": false
@@ -6081,23 +6091,35 @@
     },
     "done": true
   },
-  "incendium:technical/on_player_hurt": {
-    "criteria": {
-      "requirement": "2025-06-27 02:59:26 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_inventory_change": {
-    "criteria": {
-      "requirement": "2025-06-27 02:59:26 +0000"
-    },
-    "done": false
-  },
   "incendium:withered_forest/kill_spirit": {
     "criteria": {
       "requirement": "2025-06-27 02:50:57 +0000"
     },
     "done": true
+  },
+  "tconstruct:recipes/building_blocks/smeltery/scorched/nether_grout_multiple": {
+    "criteria": {
+      "has_item": "2025-06-27 03:00:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_slab": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2025-06-27 03:02:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/magenta_stained_glass_pane": {
+    "criteria": {
+      "has_glass": "2025-06-27 03:10:16 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:foundry/plate_armor": {
+    "criteria": {
+      "crafted_leggings": "2025-06-27 03:01:31 +0000"
+    },
+    "done": false
   },
   "travelersbackpack:recipes/misc/ghast": {
     "criteria": {
@@ -6116,6 +6138,12 @@
   "incendium:root": {
     "criteria": {
       "requirement": "2025-06-27 02:36:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cracked_polished_blackstone_bricks": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2025-06-27 03:02:07 +0000"
     },
     "done": true
   },
@@ -6146,6 +6174,12 @@
   "minecraft:recipes/building_blocks/granite": {
     "criteria": {
       "has_quartz": "2025-06-27 02:46:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_stairs_from_polished_blackstone_bricks_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2025-06-27 03:02:07 +0000"
     },
     "done": true
   },
@@ -6185,6 +6219,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/lime_stained_glass_pane": {
+    "criteria": {
+      "has_glass": "2025-06-27 03:15:35 +0000"
+    },
+    "done": true
+  },
   "incendium:misc/root": {
     "criteria": {
       "incendium:weeping_valley": "2025-06-27 02:48:50 +0000"
@@ -6197,9 +6237,39 @@
     },
     "done": true
   },
+  "minecraft:nether/loot_bastion": {
+    "criteria": {
+      "loot_bastion_treasure": "2025-06-27 03:01:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/redstone_lamp": {
+    "criteria": {
+      "has_glowstone": "2025-06-27 03:10:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_slab_from_polished_blackstone_bricks_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2025-06-27 03:02:07 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/building_blocks/brimstone_brick_slab_from_brimstone_stonecutting": {
     "criteria": {
       "has_brimstone": "2025-06-27 02:42:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/slime_block": {
+    "criteria": {
+      "has_slime_ball": "2025-06-27 03:14:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/polished_blackstone_brick_wall": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2025-06-27 03:02:07 +0000"
     },
     "done": true
   },
@@ -6234,11 +6304,42 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/magma_block": {
+    "criteria": {
+      "has_magma_cream": "2025-06-27 03:00:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_stairs": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2025-06-27 03:02:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/netherite_upgrade_smithing_template": {
+    "criteria": {
+      "has_netherite_upgrade_smithing_template": "2025-06-27 03:01:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/green_stained_glass_pane": {
+    "criteria": {
+      "has_glass": "2025-06-27 03:14:20 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/decorations/brimstone_brick_wall_from_brimstone_stonecutting": {
     "criteria": {
       "has_brimstone": "2025-06-27 02:42:39 +0000"
     },
     "done": true
+  },
+  "incendium:toxic_heap/mystic_wisdom": {
+    "criteria": {
+      "waste": "2025-06-27 03:14:14 +0000",
+      "treasure": "2025-06-27 03:10:11 +0000"
+    },
+    "done": false
   },
   "minecraft:story/enter_the_nether": {
     "criteria": {
@@ -6252,6 +6353,12 @@
     },
     "done": true
   },
+  "tconstruct:recipes/building_blocks/common/slime/earth/congealed": {
+    "criteria": {
+      "has_item": "2025-06-27 03:14:16 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/building_blocks/chiseled_brimstone_bricks_from_brimstone_stonecutting": {
     "criteria": {
       "has_brimstone": "2025-06-27 02:42:39 +0000"
@@ -6261,6 +6368,24 @@
   "minecraft:recipes/decorations/white_candle": {
     "criteria": {
       "has_white_dye": "2025-06-27 02:30:26 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/building_blocks/rose_quartz_block": {
+    "criteria": {
+      "has_rose_quartz_chunk": "2025-06-27 03:10:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/green_glazed_terracotta": {
+    "criteria": {
+      "has_green_terracotta": "2025-06-27 03:13:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/lead": {
+    "criteria": {
+      "has_slime_ball": "2025-06-27 03:14:16 +0000"
     },
     "done": true
   },
@@ -6282,9 +6407,27 @@
     },
     "done": true
   },
+  "tconstruct:recipes/building_blocks/common/basalt_blast_furnace": {
+    "criteria": {
+      "has_smooth_stone": "2025-06-27 03:06:26 +0000"
+    },
+    "done": true
+  },
   "tconstruct:recipes/combat/gadgets/shuriken/quartz_shuriken": {
     "criteria": {
       "has_item": "2025-06-27 02:46:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/sticky_piston": {
+    "criteria": {
+      "has_slime_ball": "2025-06-27 03:14:16 +0000"
+    },
+    "done": true
+  },
+  "incendium:toxic_heap/nuclear_fusion": {
+    "criteria": {
+      "incendium:treasure": "2025-06-27 03:10:11 +0000"
     },
     "done": true
   },
@@ -6300,9 +6443,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/lime_glazed_terracotta": {
+    "criteria": {
+      "has_lime_terracotta": "2025-06-27 03:15:35 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/building_blocks/brimstone_bricks_from_brimstone_stonecutting": {
     "criteria": {
       "has_brimstone": "2025-06-27 02:42:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/polished_blackstone_brick_wall_from_polished_blackstone_bricks_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2025-06-27 03:02:07 +0000"
     },
     "done": true
   },
@@ -6336,6 +6491,12 @@
     },
     "done": true
   },
+  "travelersbackpack:recipes/misc/magma_cube": {
+    "criteria": {
+      "has_magma_cream": "2025-06-27 03:00:56 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/building_blocks/brimstone_bricks": {
     "criteria": {
       "has_brimstone": "2025-06-27 02:42:39 +0000"
@@ -6351,6 +6512,12 @@
   "minecraft:recipes/misc/light_gray_dye_from_black_white_dye": {
     "criteria": {
       "has_white_dye": "2025-06-27 02:30:26 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/building_blocks/smeltery/scorched/nether_grout": {
+    "criteria": {
+      "has_item": "2025-06-27 03:00:56 +0000"
     },
     "done": true
   },

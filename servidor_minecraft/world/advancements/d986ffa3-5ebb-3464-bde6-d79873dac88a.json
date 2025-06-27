@@ -977,6 +977,7 @@
       "minecraft:spider": "2025-06-25 02:23:01 +0000",
       "minecraft:piglin_brute": "2025-06-26 19:54:50 +0000",
       "minecraft:creeper": "2025-06-25 03:01:13 +0000",
+      "minecraft:wither_skeleton": "2025-06-27 03:16:51 +0000",
       "minecraft:cave_spider": "2025-06-25 03:34:16 +0000",
       "minecraft:piglin": "2025-06-26 19:54:35 +0000",
       "minecraft:silverfish": "2025-06-26 04:47:58 +0000",
@@ -4242,6 +4243,7 @@
   "minecraft:nether/explore_nether": {
     "criteria": {
       "minecraft:nether_wastes": "2025-06-26 19:47:53 +0000",
+      "minecraft:soul_sand_valley": "2025-06-27 03:07:56 +0000",
       "minecraft:basalt_deltas": "2025-06-26 19:42:43 +0000"
     },
     "done": false
@@ -4577,15 +4579,51 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/soul_torch": {
+    "criteria": {
+      "has_soul_sand": "2025-06-27 03:10:58 +0000"
+    },
+    "done": true
+  },
   "minecraft:nether/obtain_ancient_debris": {
     "criteria": {
       "ancient_debris": "2025-06-27 02:58:32 +0000"
     },
     "done": true
   },
+  "minecraft:adventure/ol_betsy": {
+    "criteria": {
+      "shot_crossbow": "2025-06-27 03:00:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_nether_bricks_from_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_nether_bricks": "2025-06-27 03:09:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/nether_brick_wall_from_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_nether_bricks": "2025-06-27 03:09:48 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/building_blocks/brimstone_brick_slab_from_brimstone_stonecutting": {
     "criteria": {
       "has_brimstone": "2025-06-27 02:42:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/nether_brick_wall": {
+    "criteria": {
+      "has_nether_bricks": "2025-06-27 03:09:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/obtain_crying_obsidian": {
+    "criteria": {
+      "crying_obsidian": "2025-06-27 03:19:08 +0000"
     },
     "done": true
   },
@@ -4601,9 +4639,28 @@
     },
     "done": true
   },
+  "incendium:toxic_heap/mystic_wisdom": {
+    "criteria": {
+      "waste": "2025-06-27 03:13:25 +0000",
+      "office": "2025-06-27 03:19:06 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/building_blocks/nether_brick_stairs": {
+    "criteria": {
+      "has_nether_bricks": "2025-06-27 03:09:48 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/building_blocks/chiseled_brimstone_bricks_from_brimstone_stonecutting": {
     "criteria": {
       "has_brimstone": "2025-06-27 02:42:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/nether_brick_slab": {
+    "criteria": {
+      "has_nether_bricks": "2025-06-27 03:09:48 +0000"
     },
     "done": true
   },
@@ -4613,9 +4670,57 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/nether_brick_stairs_from_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_nether_bricks": "2025-06-27 03:09:48 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/building_blocks/rose_quartz_block": {
     "criteria": {
       "has_rose_quartz_chunk": "2025-06-27 02:54:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/redstone": {
+    "criteria": {
+      "has_redstone_block": "2025-06-27 03:19:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/green_glazed_terracotta": {
+    "criteria": {
+      "has_green_terracotta": "2025-06-27 03:13:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/nether_brick_fence": {
+    "criteria": {
+      "has_nether_bricks": "2025-06-27 03:09:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cracked_nether_bricks": {
+    "criteria": {
+      "has_nether_bricks": "2025-06-27 03:09:48 +0000"
+    },
+    "done": true
+  },
+  "incendium:toxic_heap/nuclear_fusion": {
+    "criteria": {
+      "incendium:waste": "2025-06-27 03:13:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/nether_bricks": {
+    "criteria": {
+      "has_nether_brick": "2025-06-27 03:19:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/respawn_anchor": {
+    "criteria": {
+      "has_obsidian": "2025-06-27 03:19:08 +0000"
     },
     "done": true
   },
@@ -4625,9 +4730,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/soul_campfire": {
+    "criteria": {
+      "has_soul_sand": "2025-06-27 03:10:58 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/building_blocks/brimstone_bricks": {
     "criteria": {
       "has_brimstone": "2025-06-27 02:42:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/nether_brick_slab_from_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_nether_bricks": "2025-06-27 03:09:48 +0000"
     },
     "done": true
   },
