@@ -973,6 +973,7 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:skeleton": "2025-06-25 03:31:36 +0000",
+      "minecraft:ghast": "2025-06-27 03:22:56 +0000",
       "minecraft:magma_cube": "2025-06-26 19:44:15 +0000",
       "minecraft:spider": "2025-06-25 02:23:01 +0000",
       "minecraft:piglin_brute": "2025-06-26 19:54:50 +0000",
@@ -982,6 +983,7 @@
       "minecraft:piglin": "2025-06-26 19:54:35 +0000",
       "minecraft:silverfish": "2025-06-26 04:47:58 +0000",
       "minecraft:enderman": "2025-06-26 18:03:33 +0000",
+      "minecraft:vex": "2025-06-27 03:20:53 +0000",
       "minecraft:zombie": "2025-06-25 03:01:41 +0000",
       "minecraft:drowned": "2025-06-26 04:33:06 +0000",
       "minecraft:zombie_villager": "2025-06-25 02:23:13 +0000"
@@ -3185,7 +3187,8 @@
   "tconstruct:world/slime_collector": {
     "criteria": {
       "sky": "2025-06-26 02:07:08 +0000",
-      "magma_cream": "2025-06-26 19:56:13 +0000"
+      "magma_cream": "2025-06-26 19:56:13 +0000",
+      "earth": "2025-06-27 03:21:24 +0000"
     },
     "done": false
   },
@@ -4567,9 +4570,39 @@
     },
     "done": true
   },
+  "incendium:withered_forest/kill_spirit": {
+    "criteria": {
+      "requirement": "2025-06-27 03:20:53 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/mushroom_rice": {
+    "criteria": {
+      "has_any_ingredient": "2025-06-27 03:37:12 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/mushroom_stew": {
+    "criteria": {
+      "has_any_ingredient": "2025-06-27 03:37:12 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/netherite_scrap_from_blasting": {
     "criteria": {
       "has_ancient_debris": "2025-06-27 02:58:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/snow": {
+    "criteria": {
+      "has_snowball": "2025-06-27 03:20:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/yellow_stained_glass_pane": {
+    "criteria": {
+      "has_glass": "2025-06-27 03:21:24 +0000"
     },
     "done": true
   },
@@ -4597,6 +4630,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/lime_stained_glass_pane": {
+    "criteria": {
+      "has_glass": "2025-06-27 03:23:19 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/chiseled_nether_bricks_from_nether_bricks_stonecutting": {
     "criteria": {
       "has_nether_bricks": "2025-06-27 03:09:48 +0000"
@@ -4615,9 +4654,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/slime_block": {
+    "criteria": {
+      "has_slime_ball": "2025-06-27 03:21:24 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/nether_brick_wall": {
     "criteria": {
       "has_nether_bricks": "2025-06-27 03:09:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/slime_ball": {
+    "criteria": {
+      "has_slime_block": "2025-06-27 03:25:25 +0000"
     },
     "done": true
   },
@@ -4630,6 +4681,12 @@
   "minecraft:recipes/misc/netherite_upgrade_smithing_template": {
     "criteria": {
       "has_netherite_upgrade_smithing_template": "2025-06-27 02:58:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/green_stained_glass_pane": {
+    "criteria": {
+      "has_glass": "2025-06-27 03:21:24 +0000"
     },
     "done": true
   },
@@ -4646,6 +4703,18 @@
     },
     "done": false
   },
+  "minecraft:recipes/misc/bowl": {
+    "criteria": {
+      "has_red_mushroom": "2025-06-27 03:37:12 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/building_blocks/common/slime/earth/congealed": {
+    "criteria": {
+      "has_item": "2025-06-27 03:21:24 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/nether_brick_stairs": {
     "criteria": {
       "has_nether_bricks": "2025-06-27 03:09:48 +0000"
@@ -4661,6 +4730,12 @@
   "minecraft:recipes/building_blocks/nether_brick_slab": {
     "criteria": {
       "has_nether_bricks": "2025-06-27 03:09:48 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/snow": {
+    "criteria": {
+      "has_snowball": "2025-06-27 03:20:53 +0000"
     },
     "done": true
   },
@@ -4694,6 +4769,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/lead": {
+    "criteria": {
+      "has_slime_ball": "2025-06-27 03:21:24 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/nether_brick_fence": {
     "criteria": {
       "has_nether_bricks": "2025-06-27 03:09:48 +0000"
@@ -4703,6 +4784,12 @@
   "minecraft:recipes/building_blocks/cracked_nether_bricks": {
     "criteria": {
       "has_nether_bricks": "2025-06-27 03:09:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/sticky_piston": {
+    "criteria": {
+      "has_slime_ball": "2025-06-27 03:21:24 +0000"
     },
     "done": true
   },
@@ -4721,6 +4808,12 @@
   "minecraft:recipes/decorations/respawn_anchor": {
     "criteria": {
       "has_obsidian": "2025-06-27 03:19:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/lime_glazed_terracotta": {
+    "criteria": {
+      "has_lime_terracotta": "2025-06-27 03:25:25 +0000"
     },
     "done": true
   },
@@ -4745,6 +4838,18 @@
   "minecraft:recipes/building_blocks/nether_brick_slab_from_nether_bricks_stonecutting": {
     "criteria": {
       "has_nether_bricks": "2025-06-27 03:09:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/mushroom_stew": {
+    "criteria": {
+      "has_red_mushroom": "2025-06-27 03:37:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/snow_block": {
+    "criteria": {
+      "has_snowball": "2025-06-27 03:20:53 +0000"
     },
     "done": true
   },

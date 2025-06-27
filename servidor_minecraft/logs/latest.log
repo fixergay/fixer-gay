@@ -350,3 +350,22 @@
 [27Jun2025 03:18:24.083] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity WitherSkeleton['Radiation Director'/22505, l='ServerLevel[world]', x=129.70, y=33.00, z=191.77] died: Radiation Director was slain by MetaPresi
 [27Jun2025 03:18:50.376] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Byakko4146: Teleported Byakko4146 to 181.500000, 32.500000, 200.500000]
 [27Jun2025 03:19:08.932] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MetaPresi has made the advancement [Who is Cutting Onions?]
+[27Jun2025 03:20:29.028] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Byakko4146 was doomed to fall by Ghast Sentry
+[27Jun2025 03:20:29.030] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(167, 33, 148) minecraft:the_nether
+[27Jun2025 03:20:49.466] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Byakko4146: Teleported Byakko4146 to 181.500000, 32.500000, 200.500000]
+[27Jun2025 03:20:53.114] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MetaPresi has reached the goal [Apparitions]
+[27Jun2025 03:20:53.115] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Vex['Restless Spirit'/28291, l='ServerLevel[world]', x=168.18, y=33.59, z=210.92] died: Restless Spirit was slain by MetaPresi
+[27Jun2025 03:20:55.987] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Vex['Restless Spirit'/28287, l='ServerLevel[world]', x=162.69, y=34.86, z=206.77] died: Restless Spirit was slain by MetaPresi
+[27Jun2025 03:21:03.119] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Vex['Restless Spirit'/28293, l='ServerLevel[world]', x=165.31, y=35.62, z=212.44] died: Restless Spirit was slain by MetaPresi
+[27Jun2025 03:21:03.762] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Byakko4146 tried to swim in lava to escape Magma Cube
+[27Jun2025 03:22:11.273] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Byakko4146: Teleported Byakko4146 to MetaPresi]
+[27Jun2025 03:22:53.208] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Ghast['Ghast Sentry'/22531, l='ServerLevel[world]', x=164.59, y=45.95, z=164.59] died: Ghast Sentry was shot by Byakko4146
+[27Jun2025 03:22:56.508] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Ghast['Ghast Sentry'/22532, l='ServerLevel[world]', x=164.59, y=46.68, z=165.51] died: Ghast Sentry was shot by MetaPresi
+[27Jun2025 03:23:13.390] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Vex['Restless Spirit'/28289, l='ServerLevel[world]', x=180.89, y=-20.00, z=176.20] died: Restless Spirit was killed
+[27Jun2025 03:23:50.389] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Vex['Restless Spirit'/28796, l='ServerLevel[world]', x=128.27, y=-20.00, z=199.62] died: Restless Spirit was killed
+[27Jun2025 03:25:11.416] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
+[27Jun2025 03:27:03.390] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Vex['Restless Spirit'/30123, l='ServerLevel[world]', x=161.03, y=-20.00, z=222.43] died: Restless Spirit was killed
+[27Jun2025 03:28:30.390] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Vex['Restless Spirit'/30643, l='ServerLevel[world]', x=161.31, y=-20.00, z=207.26] died: Restless Spirit was killed
+[27Jun2025 03:30:48.964] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of Byakko4146) moved wrongly! 0.40182215411576294
+[27Jun2025 03:30:49.015] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of Byakko4146) moved wrongly! 1.0
+[27Jun2025 03:32:44.409] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Byakko4146 has made the advancement [Hidden in the Depths]
