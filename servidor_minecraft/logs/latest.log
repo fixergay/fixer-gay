@@ -316,3 +316,4 @@
 [27Jun2025 20:44:14.918] [Server thread/INFO] [Jade/]: Syncing config to Byakko4146 (54f84238-5ece-3772-b096-bb6c9aa44f2d)
 [27Jun2025 20:44:20.551] [Server thread/INFO] [ping-wheel/]: Channel update: Byakko4146 -> default
 [27Jun2025 21:14:18.754] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Byakko4146 moved too quickly! -6.834087714219891,-1.1767592750642422,-7.273000017745858
+[27Jun2025 22:03:22.409] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Byakko4146 moved too quickly! -1.731244437182795,0.0,-10.03568922060333
