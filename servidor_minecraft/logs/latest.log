@@ -302,3 +302,7 @@
 [27Jun2025 02:10:38.080] [Server thread/INFO] [Jade/]: Syncing config to Byakko4146 (54f84238-5ece-3772-b096-bb6c9aa44f2d)
 [27Jun2025 02:10:38.363] [Server thread/INFO] [ping-wheel/]: Channel update: Byakko4146 -> default
 [27Jun2025 02:10:47.385] [Worker-Main-14/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: kaisyn:village/exclusives/mediterranean/villager_bishop
+[27Jun2025 02:28:27.967] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: MetaPresi[/100.82.18.67:55592] logged in with entity id 6573 at (-366.61119992134905, 63.0, 611.6553492900715)
+[27Jun2025 02:28:27.992] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MetaPresi joined the game
+[27Jun2025 02:28:28.051] [Server thread/INFO] [Jade/]: Syncing config to MetaPresi (d986ffa3-5ebb-3464-bde6-d79873dac88a)
+[27Jun2025 02:28:28.799] [Server thread/INFO] [ping-wheel/]: Channel update: MetaPresi -> default
