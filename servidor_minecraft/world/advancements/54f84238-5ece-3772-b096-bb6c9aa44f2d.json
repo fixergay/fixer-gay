@@ -6940,6 +6940,12 @@
     },
     "done": true
   },
+  "biomesoplenty:recipes/building_blocks/stripped_fir_wood": {
+    "criteria": {
+      "has_log": "2025-06-27 19:33:18 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stripped_birch_wood": {
     "criteria": {
       "has_log": "2025-06-27 18:22:56 +0000"
@@ -6949,6 +6955,12 @@
   "minecraft:story/enchant_item": {
     "criteria": {
       "enchanted_item": "2025-06-27 18:51:07 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/decorations/fir_hanging_sign": {
+    "criteria": {
+      "has_stripped_logs": "2025-06-27 19:33:18 +0000"
     },
     "done": true
   },
