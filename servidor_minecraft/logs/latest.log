@@ -1,0 +1,1259 @@
+[01:53:43] [main/INFO]: Loading Minecraft 1.21.1 with Fabric Loader 0.17.3
+[01:53:48] [ForkJoinPool-1-worker-2/WARN]: The mod "accessories_compat_layer" contains invalid entries in its mod json:
+- Unsupported root entry "#COMMENT_breaks" at line 53 column 20
+[01:53:50] [ForkJoinPool-1-worker-4/WARN]: The mod "takesapillage" contains invalid entries in its mod json:
+- Unsupported root entry "mc-publish" at line 51 column 14
+[01:53:51] [main/INFO]: Loading 264 mods:
+	- accessories 1.1.0-beta.52+1.21.1
+	- accessories_compat_layer 0.1.10
+	   \-- mixinsquared 0.3.4
+	- adventuredungeons 1.3.1
+	- aether 1.5.11
+	   |-- cumulus_menus 2.0.7
+	   |-- mm_shedaniel 2.4.1
+	   \-- nitrogen_internals 1.1.21
+	- aether_villages 1.0.8
+	- archers 2.6.8+1.21.1
+	- architectury 13.0.8
+	- armordamagescale 1.21-3.1
+	   \-- com_ezylang_evalex 3.0.1
+	- armory_rpgs 1.2.9+1.21.1
+	- arsenal 1.3.2+1.21.1
+	- attributefix 21.1.3
+	- awesomedungeon 3.2.0
+	- awesomedungeonocean 3.3.0
+	- azurelibarmor 3.1.1
+	- balm 21.0.53
+	   \-- kuma_api 21.0.7
+	- berserker_rpg 2.5.2+1.21.1
+	- bettercaves 1.21.1-Fabric-3.1.4
+	   \-- org_reflections_reflections 0.10.2
+	- bettercombat 2.2.5+1.21.1
+	- betterdeserttemples 1.21.1-Fabric-4.1.5
+	   \-- org_reflections_reflections 0.10.2
+	- betterdungeons 1.21.1-Fabric-5.1.4
+	   \-- org_reflections_reflections 0.10.2
+	- betterendisland 1.21.1-Fabric-3.1.2
+	   \-- org_reflections_reflections 0.10.2
+	- betterfortresses 1.21.1-Fabric-3.1.5
+	   \-- org_reflections_reflections 0.10.2
+	- betterjungletemples 1.21.1-Fabric-3.1.2
+	   \-- org_reflections_reflections 0.10.2
+	- bettermineshafts 1.21.1-Fabric-5.1.1
+	   \-- org_reflections_reflections 0.10.2
+	- betteroceanmonuments 1.21.1-Fabric-4.1.2
+	   \-- org_reflections_reflections 0.10.2
+	- betterwitchhuts 1.21.1-Fabric-4.1.1
+	   \-- org_reflections_reflections 0.10.2
+	- bookshelf 21.1.78
+	- bosses_of_mass_destruction 1.10.2-1.21.1
+	   \-- multipart_entities 1.7-1.21
+	- bridgingmod 2.6.2+1.21.1
+	- brutalbosses 1.21-8.4
+	- bundleapi 1.1.0
+	- cardinal-components 6.1.2
+	   |-- cardinal-components-base 6.1.2
+	   |-- cardinal-components-block 6.1.2
+	   |-- cardinal-components-chunk 6.1.2
+	   |-- cardinal-components-entity 6.1.2
+	   |-- cardinal-components-item 6.1.2
+	   |-- cardinal-components-level 6.1.2
+	   |-- cardinal-components-scoreboard 6.1.2
+	   \-- cardinal-components-world 6.1.2
+	- carryon 2.2.2
+	- chunkactivitytracker 1.0.1
+	- clientsort 2.1.2+1.21.1
+	- cloth-config 15.0.140
+	   \-- cloth-basic-math 0.6.1
+	- clumps 19.0.0.1
+	- collective 8.13
+	- combat_roll 2.0.5+1.21.1
+	- connectivity 1.21-7.2
+	- cristellib 3.0.2
+	   \-- blue_endless_jankson 1.2.3
+	- critical_strike 1.0.4+1.21.1
+	   \-- tiny_config 3.1.0
+	- cupboard 1.21-2.9
+	- darkbosses 1.0.5
+	- does_it_tick 1.1.4
+	- dungeon_difficulty 3.6.7+1.21.1
+	- easyanvils 21.1.0
+	- eldritch_mobs 1.16.4
+	   |-- polymer-blocks 0.9.9+1.21
+	   |-- polymer-core 0.9.9+1.21
+	   |    |-- polymer-networking 0.9.9+1.21
+	   |    |    \-- polymer-common 0.9.9+1.21
+	   |    |         \-- packet_tweaker 0.5.5+1.21
+	   |    \-- polymer-registry-sync-manipulator 0.9.9+1.21
+	   \-- server_translations_api 2.3.1+1.21-pre2
+	- elemental_wizards_rpg 2.5.1+1.21.1
+	- entityculling 1.9.3
+	   |-- transition 1.0.8
+	   \-- trender 1.0.8
+	- explorify 1.6.4
+	- fabric-api 0.116.7+1.21.1
+	   |-- fabric-api-base 0.4.42+6573ed8c19
+	   |-- fabric-api-lookup-api-v1 1.6.71+b559734419
+	   |-- fabric-biome-api-v1 13.0.31+d527f9fd19
+	   |-- fabric-block-api-v1 1.1.0+0bc3503219
+	   |-- fabric-block-view-api-v2 1.0.11+ebb2264e19
+	   |-- fabric-blockrenderlayer-v1 1.1.52+0af3f5a719
+	   |-- fabric-client-tags-api-v1 1.1.15+6573ed8c19
+	   |-- fabric-command-api-v1 1.2.49+f71b366f19
+	   |-- fabric-command-api-v2 2.2.28+6ced4dd919
+	   |-- fabric-commands-v0 0.2.66+df3654b319
+	   |-- fabric-content-registries-v0 8.0.19+b559734419
+	   |-- fabric-convention-tags-v1 2.1.5+7f945d5b19
+	   |-- fabric-convention-tags-v2 2.11.1+a406e79519
+	   |-- fabric-crash-report-info-v1 0.2.29+0af3f5a719
+	   |-- fabric-data-attachment-api-v1 1.4.5+6116a37819
+	   |-- fabric-data-generation-api-v1 20.2.34+37516cd619
+	   |-- fabric-dimensions-v1 4.0.1+65213ef819
+	   |-- fabric-entity-events-v1 1.8.0+2b27e0a419
+	   |-- fabric-events-interaction-v0 0.7.13+ba9dae0619
+	   |-- fabric-game-rule-api-v1 1.0.53+6ced4dd919
+	   |-- fabric-item-api-v1 11.2.0+3b3cb2e819
+	   |-- fabric-item-group-api-v1 4.1.7+def88e3a19
+	   |-- fabric-key-binding-api-v1 1.0.47+0af3f5a719
+	   |-- fabric-keybindings-v0 0.2.45+df3654b319
+	   |-- fabric-lifecycle-events-v1 2.6.0+0865547519
+	   |-- fabric-loot-api-v2 3.0.15+3f89f5a519
+	   |-- fabric-loot-api-v3 1.0.3+3f89f5a519
+	   |-- fabric-message-api-v1 6.0.14+8aaf3aca19
+	   |-- fabric-model-loading-api-v1 2.1.0+b4d813fc19
+	   |-- fabric-networking-api-v1 4.3.0+c7469b2119
+	   |-- fabric-object-builder-api-v1 15.2.1+40875a9319
+	   |-- fabric-particles-v1 4.0.2+6573ed8c19
+	   |-- fabric-recipe-api-v1 5.0.15+2475392c19
+	   |-- fabric-registry-sync-v0 5.3.1+e3eddc2119
+	   |-- fabric-renderer-api-v1 3.4.1+b4d813fc19
+	   |-- fabric-renderer-indigo 1.7.1+c705a49c19
+	   |-- fabric-renderer-registries-v1 3.2.69+df3654b319
+	   |-- fabric-rendering-data-attachment-v1 0.3.49+73761d2e19
+	   |-- fabric-rendering-fluids-v1 3.1.6+1daea21519
+	   |-- fabric-rendering-v0 1.1.72+df3654b319
+	   |-- fabric-rendering-v1 5.1.0+ab4c25a019
+	   |-- fabric-resource-conditions-api-v1 4.3.0+8dc279b119
+	   |-- fabric-resource-loader-v0 1.3.1+5b5275af19
+	   |-- fabric-screen-api-v1 2.0.25+8b68f1c719
+	   |-- fabric-screen-handler-api-v1 1.3.90+b559734419
+	   |-- fabric-sound-api-v1 1.0.23+6573ed8c19
+	   |-- fabric-transfer-api-v1 5.4.3+c24bd99419
+	   \-- fabric-transitive-access-wideners-v1 6.2.0+45b9699719
+	- fabric-language-kotlin 1.13.7+kotlin.2.2.21
+	   |-- org_jetbrains_kotlin_kotlin-reflect 2.2.21
+	   |-- org_jetbrains_kotlin_kotlin-stdlib 2.2.21
+	   |-- org_jetbrains_kotlin_kotlin-stdlib-jdk7 2.2.21
+	   |-- org_jetbrains_kotlin_kotlin-stdlib-jdk8 2.2.21
+	   |-- org_jetbrains_kotlinx_atomicfu-jvm 0.29.0
+	   |-- org_jetbrains_kotlinx_kotlinx-coroutines-core-jvm 1.10.2
+	   |-- org_jetbrains_kotlinx_kotlinx-coroutines-jdk8 1.10.2
+	   |-- org_jetbrains_kotlinx_kotlinx-datetime-jvm 0.7.1
+	   |-- org_jetbrains_kotlinx_kotlinx-io-bytestring-jvm 0.8.0
+	   |-- org_jetbrains_kotlinx_kotlinx-io-core-jvm 0.8.0
+	   |-- org_jetbrains_kotlinx_kotlinx-serialization-cbor-jvm 1.9.0
+	   |-- org_jetbrains_kotlinx_kotlinx-serialization-core-jvm 1.9.0
+	   \-- org_jetbrains_kotlinx_kotlinx-serialization-json-jvm 1.9.0
+	- fabricloader 0.17.3
+	   \-- mixinextras 0.5.0
+	- fastasyncworldsave 1.21-2.6
+	- fastitemframes 21.1.6
+	- fixmyspawnr 3.0.0
+	- forgeconfigapiport 21.1.5
+	- formidulus 0.1.2-beta
+	   |-- mm 2.3
+	   \-- yayconfig 1.0.3
+	- ftbessentials 2101.1.8
+	- ftblibrary 2101.1.26
+	- fzzy_config 0.7.3+1.21
+	   |-- blue_endless_jankson 1.2.3
+	   |-- fabric-permissions-api-v0 0.3.1
+	   \-- net_peanuuutz_tomlkt_tomlkt-jvm 0.3.7
+	- gazebo 2.1.0+1.21.1
+	- geckolib 4.8.2
+	- geophilic 3.4.4
+	- globalxp 1.12.2
+	- gpumemleakfix 1.21-1.8
+	- hopobetterunderwaterruins 1.2.1
+	- iceberg 1.3.2
+	- illagerinvasion 21.1.6
+	   \-- extensibleenums 21.1.1
+	- immersivelanterns 1.0.6
+	- infinitetrading 4.6
+	- jade 15.10.2+fabric
+	- jamlib 1.3.5+1.21.1
+	   \-- blue_endless_jankson 1.2.3
+	- java 21
+	- jei 19.21.2.313
+	- jewelry 2.3.1+1.21.1
+	- konkrete 1.9.9
+	- krypton 0.2.8
+	   \-- com_velocitypowered_velocity-native 3.3.0-SNAPSHOT
+	- libraryferret 4.0.0
+	- lithostitched 1.5.0
+	- lne_archers 1.0.8+1.21.1
+	- lne_paladins 1.0.7+1.21.1
+	- lne_rogues 1.0.3-1.21.1
+	   \-- com_github_zsoltmolnarrr_tinyconfig 2.3.2
+	- lne_wizards 1.0.7+1.21.1
+	- loot_n_explore 1.0.16-1.21.1
+	- lootintegrations 1.21-4.7
+	- lootintegrations_yungs 1.4
+	- medievalend 1.0.4
+	- midnightlib 1.7.5
+	- minecells 2.0.3
+	   \-- gimm1q 0.7.10+1.21.1
+	        \-- com_github_redempt_crunch 2.0.3
+	- minecraft 1.21.1
+	- moonlight 1.21-2.26.3
+	- more_relics 1.1.0+1.21.1
+	- more_rpg_classes 2.5.4+1.21.1
+	- mr_dungeons_andtaverns 1-v4.4.4
+	- mr_dungeons_andtavernsancientcityoverhaul 1-v2
+	- mr_dungeons_andtavernsendcastlestandalone 1-v1.1
+	- mr_dungeons_andtavernspillageroutpostoverhaul 1-v2.2
+	- mr_dungeons_andtavernsstrongholdoverhaul 1-v2.1.f
+	- mr_dungeons_andtavernswoodlandmansionreplacement 1-v1.2
+	- mrpgc_skill_tree 1.0.4+1.21.1
+	- no-shield-delay 1.0.1
+	   |-- com_electronwill_night-config_core 3.8.1
+	   \-- com_electronwill_night-config_toml 3.8.1
+	- observable 5.4.4
+	- octolib 0.6.0.4
+	   \-- org_yaml_snakeyaml 2.2
+	- owo 0.12.15.4+1.21
+	   |-- io_wispforest_endec 0.1.5.1
+	   |-- io_wispforest_endec_gson 0.1.3.1
+	   |-- io_wispforest_endec_jankson 0.1.3.1
+	   \-- io_wispforest_endec_netty 0.1.2
+	- paladins 2.6.3+1.21.1
+	- platform 1.2.10.2
+	- playeranimator 2.0.1+1.21.1
+	- polymorph 1.1.0+1.21.1
+	- prickle 21.1.11
+	- puffish_skills 0.16.8
+	- puzzleslib 21.1.39
+	- ranged_weapon_api 2.3.2+1.21.1
+	- recipeessentials 1.21-4.1
+	- relics_rpgs 1.2.1+1.21.1
+	- resourcefulconfig 3.0.11
+	- resourcefullib 3.0.12
+	   |-- com_teamresourceful_bytecodecs 1.1.2
+	   \-- com_teamresourceful_yabn 1.0.3
+	- rightclickharvest 4.6.0+1.21.1
+	- rogues 2.6.4+1.21.1
+	- runes 1.2.0+1.21.1
+	- servercore 1.5.5+1.21.1
+	   |-- fabric-permissions-api-v0 0.3.1
+	   |-- org_yaml_snakeyaml 2.2
+	   |-- placeholder-api 2.4.1+1.21
+	   |-- space_arim_dazzleconf_dazzleconf-core 1.3.0-M2
+	   \-- space_arim_dazzleconf_dazzleconf-ext-snakeyaml 1.3.0-M2
+	- shield_api 2.2.0
+	- skill_tree_rpgs 1.2.2+1.21.1
+	- smoothchunk 1.21-4.1
+	- sound_physics_remastered 1.21.1-1.5.1
+	- spell_engine 1.8.12+1.21.1
+	   \-- tiny_config 3.1.0
+	- spell_power 1.4.4+1.21.1
+	   \-- tiny_config 3.1.0
+	- structure_pool_api 1.2.1+1.21.1
+	- supermartijn642corelib 1.1.18+a
+	- t_and_t 1.13.7
+	- takesapillage 1.0.9
+	- terrablender 4.1.0.8
+	- terralith 2.5.8
+	- the_bumblezone 7.11.4+1.21.1-fabric
+	   \-- athena 4.0.0
+	- tinyskeletons 21.1.0
+	- toofast 1.3.0
+	- trade_cycling 1.21.1-1.0.18
+	   |-- fabric-key-binding-api-v1 1.0.47+0af3f5a76a
+	   \-- fabric-screen-api-v1 2.0.24+b55973446a
+	- travelersbackpack 10.1.27
+	- treeharvester 9.1
+	- trinkets 3.10.0
+	- txnilib 1.0.24
+	- u_sea 1.2.4
+	- village_taverns 1.1.5+1.21.1
+	   \-- tiny_config 3.1.0
+	- waystones 21.1.23
+	- witcher_rpg 2.6.2+1.21.1
+	- wizards 2.6.4+1.21.1
+	- yet_another_config_lib_v3 3.7.1+1.21.1-fabric
+	   |-- com_twelvemonkeys_common_common-image 3.12.0
+	   |-- com_twelvemonkeys_common_common-io 3.12.0
+	   |-- com_twelvemonkeys_common_common-lang 3.12.0
+	   |-- com_twelvemonkeys_imageio_imageio-core 3.12.0
+	   |-- com_twelvemonkeys_imageio_imageio-metadata 3.12.0
+	   |-- com_twelvemonkeys_imageio_imageio-webp 3.12.0
+	   |-- org_quiltmc_parsers_gson 0.2.1
+	   \-- org_quiltmc_parsers_json 0.2.1
+	- yigd 2.4.18
+	   |-- fabric-permissions-api-v0 0.3.1
+	   \-- libgui 11.1.0+1.21
+	        |-- jankson 8.0.0+j1.2.3
+	        |    \-- blue_endless_jankson 1.2.3
+	        \-- libninepatch 1.2.0
+	- yungsapi 1.21.1-Fabric-5.1.6
+	   |-- org_javassist_javassist 3.29.2-GA
+	   \-- org_reflections_reflections 0.10.2
+	- yungsbridges 1.21.1-Fabric-5.1.1
+	   \-- org_reflections_reflections 0.10.2
+	- yungscavebiomes 1.21.1-Fabric-3.1.1
+	   \-- org_reflections_reflections 0.10.2
+	- yungsextras 1.21.1-Fabric-5.1.1
+	   \-- org_reflections_reflections 0.10.2
+[01:53:52] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8.7 Source=file:/workspaces/fixer-gay/servidor_minecraft/libraries/net/fabricmc/sponge-mixin/0.16.5+mixin.0.8.7/sponge-mixin-0.16.5+mixin.0.8.7.jar Service=Knot/Fabric Env=SERVER
+[01:53:52] [main/INFO]: Compatibility level set to JAVA_17
+[01:53:52] [main/INFO]: Compatibility level set to JAVA_18
+[01:53:52] [main/INFO]: Compatibility level set to JAVA_21
+[01:53:52] [main/WARN]: Reference map 'aether_villages-common-common-refmap.json' for aether_villages.mixins.json could not be read. If this is a development environment you can ignore this message
+[01:53:52] [main/WARN]: Reference map 'armory-common-common-refmap.json' for armory_rpgs.mixins.json could not be read. If this is a development environment you can ignore this message
+[01:53:52] [main/WARN]: Reference map 'arsenal-common-common-refmap.json' for arsenal.mixins.json could not be read. If this is a development environment you can ignore this message
+[01:53:52] [main/WARN]: Reference map 'berserker_rpg-common-common-refmap.json' for berserker-class-mod.mixins.json could not be read. If this is a development environment you can ignore this message
+[01:53:53] [main/WARN]: Reference map 'extensibleenums.common.refmap.json' for extensibleenums.common.mixins.json could not be read. If this is a development environment you can ignore this message
+[01:53:53] [main/WARN]: Reference map 'extensibleenums.fabric.refmap.json' for extensibleenums.fabric.mixins.json could not be read. If this is a development environment you can ignore this message
+[01:53:53] [main/WARN]: Reference map 'fastitemframes.fabric.refmap.json' for fastitemframes.fabric.mixins.json could not be read. If this is a development environment you can ignore this message
+[01:53:53] [main/WARN]: Reference map 'forgeconfigapiport.common.refmap.json' for forgeconfigapiport.common.mixins.json could not be read. If this is a development environment you can ignore this message
+[01:53:53] [main/WARN]: Reference map 'gazebo-common-common-refmap.json' for gazebo.mixins.json could not be read. If this is a development environment you can ignore this message
+[01:53:53] [main/WARN]: Reference map 'globalxp-fabric-1.20.6-refmap.json' for globalxp.mixins.json could not be read. If this is a development environment you can ignore this message
+[01:53:53] [main/WARN]: Reference map 'illagerinvasion.fabric.refmap.json' for illagerinvasion.fabric.mixins.json could not be read. If this is a development environment you can ignore this message
+[01:53:53] [main/WARN]: Reference map 'jewelry-common-common-refmap.json' for jewelry.mixins.json could not be read. If this is a development environment you can ignore this message
+[01:53:53] [main/WARN]: Reference map 'lne_archers-common-common-refmap.json' for lne_archers.mixins.json could not be read. If this is a development environment you can ignore this message
+[01:53:53] [main/WARN]: Reference map 'lne_paladins-common-common-refmap.json' for lne_paladins.mixins.json could not be read. If this is a development environment you can ignore this message
+[01:53:53] [main/WARN]: Reference map 'lne_wizards-common-common-refmap.json' for lne_wizards.mixins.json could not be read. If this is a development environment you can ignore this message
+[01:53:53] [main/INFO]: Started MM (shedaniel's fork) at me/shedaniel/gen/mixin/
+[01:53:53] [main/WARN]: Reference map 'Manningham Mills-refmap.json' for mixins.mm_shedaniel.json could not be read. If this is a development environment you can ignore this message
+[01:53:53] [main/WARN]: Reference map 'paladins-common-common-refmap.json' for paladins.mixins.json could not be read. If this is a development environment you can ignore this message
+[01:53:53] [main/WARN]: Reference map 'prickle.refmap.json' for prickle.mixins.json could not be read. If this is a development environment you can ignore this message
+[01:53:53] [main/WARN]: Reference map 'prickle.refmap.json' for prickle.fabric.mixins.json could not be read. If this is a development environment you can ignore this message
+[01:53:53] [main/WARN]: Reference map 'relics-common-common-refmap.json' for relics_rpgs.mixins.json could not be read. If this is a development environment you can ignore this message
+[01:53:53] [main/WARN]: Reference map 'tiny_config-common-common-refmap.json' for tiny_config.mixins.json could not be read. If this is a development environment you can ignore this message
+[01:53:53] [main/WARN]: Reference map 'yet_another_config_lib_v3.refmap.json' for yacl.mixins.json could not be read. If this is a development environment you can ignore this message
+[01:53:53] [main/WARN]: Reference map 'yet_another_config_lib_v3.refmap.json' for yacl-fabric.mixins.json could not be read. If this is a development environment you can ignore this message
+[01:53:53] [main/WARN]: Error loading class: net/minecraft/class_310 (java.lang.ClassNotFoundException: net/minecraft/class_310)
+[01:53:53] [main/WARN]: @Mixin target net.minecraft.class_310 was not found aether.mixins.json:client.accessor.MinecraftAccessor from mod aether
+[01:53:54] [main/WARN]: Error loading class: dev/ftb/mods/ftbchunks/data/ClaimedChunkManagerImpl (java.lang.ClassNotFoundException: dev/ftb/mods/ftbchunks/data/ClaimedChunkManagerImpl)
+[01:53:54] [main/WARN]: @Mixin target dev.ftb.mods.ftbchunks.data.ClaimedChunkManagerImpl was not found mixins.does_it_tick.json:ClaimedChunkManagerAccessor from mod does_it_tick
+[01:53:54] [main/WARN]: Error loading class: com/electronwill/nightconfig/core/io/IoUtils (java.lang.ClassNotFoundException: com/electronwill/nightconfig/core/io/IoUtils)
+[01:53:54] [main/WARN]: Error loading class: net/minecraft/class_337$1 (java.lang.ClassNotFoundException: net/minecraft/class_337$1)
+[01:53:54] [main/WARN]: @Mixin target net/minecraft/class_337$1 was not found minecells.mixins.json:client.hud.BossBarUpdaterMixin from mod minecells
+[01:53:54] [main/WARN]: Error loading class: me/jellysquid/mods/lithium/common/entity/LithiumEntityCollisions (java.lang.ClassNotFoundException: me/jellysquid/mods/lithium/common/entity/LithiumEntityCollisions)
+[01:53:54] [main/WARN]: Error loading class: net/minecraft/class_525 (java.lang.ClassNotFoundException: net/minecraft/class_525)
+[01:53:54] [main/WARN]: @Mixin target net.minecraft.class_525 was not found moonlight.mixins.json:CreateWorldScreenMixin from mod moonlight
+[01:53:54] [main/WARN]: Error loading class: net/minecraft/class_287 (java.lang.ClassNotFoundException: net/minecraft/class_287)
+[01:53:54] [main/WARN]: @Mixin target net.minecraft.class_287 was not found owo.mixins.json:BufferBuilderAccessor from mod owo
+[01:53:54] [main/WARN]: Error loading class: net/minecraft/class_437 (java.lang.ClassNotFoundException: net/minecraft/class_437)
+[01:53:54] [main/WARN]: @Mixin target net.minecraft.class_437 was not found owo.mixins.json:ScreenAccessor from mod owo
+[01:53:54] [main/WARN]: Disabling fastItemComparison feature, due to the Owo mod's faulty implementation breaking it
+[01:53:54] [main/INFO]: Loaded config for: recipeessentials.json
+[01:53:54] [main/WARN]: Disabling fastItemComparison feature, due to the Owo mod's faulty implementation breaking it
+[01:53:54] [main/WARN]: Disabling fastItemComparison feature, due to the Owo mod's faulty implementation breaking it
+[01:53:54] [main/WARN]: Disabling fastItemComparison feature, due to the Owo mod's faulty implementation breaking it
+[01:53:54] [main/WARN]: Disabling fastItemComparison feature, due to the Owo mod's faulty implementation breaking it
+[01:53:54] [main/WARN]: Disabling fastItemComparison feature, due to the Owo mod's faulty implementation breaking it
+[01:53:54] [main/WARN]: Disabling fastItemComparison feature, due to the Owo mod's faulty implementation breaking it
+[01:53:54] [main/WARN]: Error loading class: net/minecraft/class_310 (java.lang.ClassNotFoundException: net/minecraft/class_310)
+[01:53:54] [main/WARN]: @Mixin target net.minecraft.class_310 was not found shield_api.mixins.json:client.MinecraftClientMixin from mod shield_api
+[01:53:55] [main/WARN]: Error loading class: org/jetbrains/annotations/ApiStatus$Internal (java.lang.ClassNotFoundException: org/jetbrains/annotations/ApiStatus$Internal)
+[01:53:55] [main/WARN]: Error loading class: net/minecraft/class_314 (java.lang.ClassNotFoundException: net/minecraft/class_314)
+[01:53:55] [main/WARN]: @Mixin target net.minecraft.class_314 was not found mixins.mm_shedaniel.json:net.minecraft.class_314 from mod mm_shedaniel
+[01:53:55] [main/INFO]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.5.0).
+[01:53:59] [main/WARN]: Method overwrite conflict for method_5837 in eldritch_mobs.mixins.json:MobEntityMixin from mod eldritch_mobs, previously written by com.brutalbosses.mixin.BossCapMixin. Skipping method.
+[01:54:04] [main/WARN]: Mod with id: explorify only has an old path for subPath: data/cristellib/structure_config. New Path for Cristel Lib >=2.0.1 is missing! Maybe contact the mod author to let them know.
+[01:54:04] [main/INFO]: Loaded config for: cupboard.json
+[01:54:05] [main/INFO]: Setting up compat modules for Accessories!
+[01:54:05] [main/INFO]: Registered Trinkets Reloaded Listeners
+[01:54:05] [main/INFO]: Adventure Dungeons Fabric Made by AlexMega
+[01:54:05] [main/INFO]: Hello from Common init on Fabric! we are currently in a production environment!
+[01:54:05] [main/INFO]: The ID for diamonds is minecraft:diamond
+[01:54:05] [main/INFO]: Hello to adventuredungeons
+[01:54:06] [main/INFO]: Loaded config for: armordamagescale.json
+[01:54:06] [main/INFO]: armordamagescale mod initialized
+[01:54:06] [main/INFO]: Registering Mod Items for berserker_rpg
+[01:54:06] [main/INFO]: Registering Item Groups for berserker_rpg
+[01:54:06] [main/INFO]: Reflections took 49 ms to scan 1 urls, producing 0 keys and 0 values
+[01:54:06] [main/INFO]: Reflections took 2 ms to scan 1 urls, producing 0 keys and 0 values
+[01:54:06] [main/INFO]: Reflections took 7 ms to scan 1 urls, producing 1 keys and 2 values
+[01:54:06] [main/INFO]: Reflections took 2 ms to scan 1 urls, producing 1 keys and 2 values
+[01:54:06] [main/INFO]: Reflections took 2 ms to scan 1 urls, producing 1 keys and 3 values
+[01:54:06] [main/INFO]: Reflections took 2 ms to scan 1 urls, producing 1 keys and 3 values
+[01:54:06] [main/INFO]: Reflections took 0 ms to scan 1 urls, producing 1 keys and 2 values
+[01:54:06] [main/INFO]: Reflections took 1 ms to scan 1 urls, producing 1 keys and 2 values
+[01:54:06] [main/INFO]: Reflections took 2 ms to scan 1 urls, producing 1 keys and 1 values
+[01:54:06] [main/INFO]: Reflections took 2 ms to scan 1 urls, producing 1 keys and 1 values
+[01:54:06] [main/INFO]: Reflections took 1 ms to scan 1 urls, producing 1 keys and 3 values
+[01:54:06] [main/INFO]: Reflections took 1 ms to scan 1 urls, producing 1 keys and 3 values
+[01:54:06] [main/INFO]: Reflections took 2 ms to scan 1 urls, producing 1 keys and 2 values
+[01:54:06] [main/INFO]: Reflections took 2 ms to scan 1 urls, producing 1 keys and 2 values
+[01:54:06] [main/INFO]: Reflections took 1 ms to scan 1 urls, producing 1 keys and 1 values
+[01:54:06] [main/INFO]: Reflections took 1 ms to scan 1 urls, producing 1 keys and 1 values
+[01:54:06] [main/INFO]: Reflections took 1 ms to scan 1 urls, producing 1 keys and 1 values
+[01:54:06] [main/INFO]: Reflections took 0 ms to scan 1 urls, producing 1 keys and 1 values
+[01:54:08] [main/INFO]: Brutal bosses initialized
+[01:54:08] [main/INFO]: Customized Bundles!
+[01:54:08] [main/INFO]: Loading Collective version 8.13.
+[01:54:08] [main/INFO]: Connectivity initialized
+[01:54:08] [main/INFO]: Constructing common components for easyanvils:main
+[01:54:08] [main/INFO]: Dispatching loading event for config easyanvils-common.toml
+[01:54:08] [main/INFO]: Channelling eldritch energies...
+[01:54:08] [main/INFO]: Registering Item Groups for elemental_wizards_rpg
+[01:54:08] [main/INFO]: Constructing common components for fastitemframes:main
+[01:54:08] [main/ERROR]: No data fixer registered for deer_god
+[01:54:08] [main/ERROR]: No data fixer registered for irrlicht
+[01:54:08] [main/ERROR]: No data fixer registered for pumpkin
+[01:54:08] [main/ERROR]: No data fixer registered for deer_follower
+[01:54:08] [main/ERROR]: No data fixer registered for bulwark
+[01:54:08] [main/INFO]: Updating Timed Event State; These are basically realtime holidays:
+[01:54:08] [main/INFO]: formidulus:ween was 18 days ago. (active)
+[01:54:08] [main/INFO]: formidulus:solstice_feast is in 36 days.
+[01:54:08] [main/INFO]: Registering C2S receiver with id ftblibrary:edit_nbt_response
+[01:54:08] [main/INFO]: Registering C2S receiver with id ftblibrary:sync_config_to_server_packet
+[01:54:08] [main/INFO]: Initializing Gimm1q - Mim1q's Fabric modding library!
+[01:54:08] [main/INFO]: Constructing common components for illagerinvasion:main
+[01:54:08] [main/ERROR]: No data fixer registered for provoker
+[01:54:08] [main/ERROR]: No data fixer registered for invoker
+[01:54:08] [main/ERROR]: No data fixer registered for necromancer
+[01:54:08] [main/ERROR]: No data fixer registered for basher
+[01:54:08] [main/ERROR]: No data fixer registered for sorcerer
+[01:54:08] [main/ERROR]: No data fixer registered for archivist
+[01:54:08] [main/ERROR]: No data fixer registered for inquisitor
+[01:54:08] [main/ERROR]: No data fixer registered for marauder
+[01:54:08] [main/ERROR]: No data fixer registered for alchemist
+[01:54:08] [main/ERROR]: No data fixer registered for firecaller
+[01:54:08] [main/ERROR]: No data fixer registered for surrendered
+[01:54:08] [main/ERROR]: No data fixer registered for skull_bolt
+[01:54:08] [main/ERROR]: No data fixer registered for hatchet
+[01:54:08] [main/ERROR]: No data fixer registered for invoker_fangs
+[01:54:08] [main/ERROR]: No data fixer registered for flying_magma
+[01:54:09] [main/INFO]: Initializing JamLib on Fabric
+[01:54:09] [main/INFO]: [KONKRETE] Loading v1.9.9 in server-side mode on FABRIC!
+[01:54:09] [main/INFO]: ---------------------------
+[01:54:09] [main/INFO]: KONKRETE SHIPS AND USES THE FOLLOWING LIBRARIES:
+[01:54:09] [main/INFO]:  
+[01:54:09] [main/INFO]: Open Imaging Copyright © 2014 Dhyan Blum.
+[01:54:09] [main/INFO]: Open Imaging is licensed under Apache-2.0.
+[01:54:09] [main/INFO]:  
+[01:54:09] [main/INFO]: JsonPath Copyright © 2017 Jayway.
+[01:54:09] [main/INFO]: JsonPath is licensed under Apache-2.0.
+[01:54:09] [main/INFO]:  
+[01:54:09] [main/INFO]: Json-smart Copyright © netplex.
+[01:54:09] [main/INFO]: Json-smart is licensed under Apache-2.0.
+[01:54:09] [main/INFO]:  
+[01:54:09] [main/INFO]: Exp4j Copyright © Frank Asseg.
+[01:54:09] [main/INFO]: Exp4j is licensed under Apache-2.0. https://github.com/fasseg/exp4j
+[01:54:09] [main/INFO]: ---------------------------
+[01:54:09] [main/INFO]: [KONKRETE] Server-side modules initialized and ready to use!
+[01:54:09] [main/INFO]: Compression will use libdeflate (Linux x86_64), encryption will use OpenSSL 3.0.x (Linux x86_64)
+[01:54:09] [main/INFO]: Initialize mod Library Ferret
+[01:54:09] [main/INFO]: Initialized mod Library Ferret
+[01:54:09] [main/INFO]: Registering Status Effects for loot_n_explore
+[01:54:09] [main/INFO]: Registering Potions for loot_n_explore
+[01:54:09] [main/INFO]: Registering Item Groups for loot_n_explore
+[01:54:09] [main/INFO]: Registering Spell Power Compat Effects for loot_n_explore
+[01:54:09] [main/INFO]: Registering More RPG Library Compat Effects for loot_n_explore
+[01:54:09] [main/INFO]: Registering Ranged Weapon API Compat Effects for loot_n_explore
+[01:54:09] [main/INFO]: Registering Witcher Compat Effects for loot_n_explore
+[01:54:09] [main/INFO]: Definitely not up to no good
+[01:54:09] [main/INFO]: Definitely not up to no good
+[01:54:09] [main/INFO]: Loaded config moonlight-common.json
+[01:54:09] [main/INFO]: Registering Mod Items for more_rpg_classes
+[01:54:09] [main/INFO]: Reading config file for no-shield-delay
+[01:54:09] [main/INFO]: Enabled: true, Raise Time: 1
+[01:54:09] [main/INFO]: Finished Initializing no-shield-delay
+[01:54:09] [main/INFO]: Registering C2S receiver with id observable:channel-c2s
+[01:54:09] [main/INFO]: Registered class observable.net.C2SPacket$InitTPSProfile
+[01:54:09] [main/INFO]: Registered class observable.net.C2SPacket$RequestAvailability
+[01:54:09] [main/INFO]: Registered class observable.net.S2CPacket$ProfilingStarted
+[01:54:09] [main/INFO]: Registered class observable.net.S2CPacket$ProfilingCompleted
+[01:54:09] [main/INFO]: Registered class observable.net.S2CPacket$ProfilerInactive
+[01:54:09] [main/INFO]: Registered class observable.net.S2CPacket$ProfilingResult
+[01:54:09] [main/INFO]: Registered class observable.net.S2CPacket$Availability
+[01:54:09] [main/INFO]: chyz: bro, can you stop breathing
+[01:54:10] [main/INFO]: Constructing common components for puzzleslib:main
+[01:54:10] [main/INFO]: Updated config file at /workspaces/fixer-gay/servidor_minecraft/config/rightclickharvest.json5
+[01:54:10] [main/INFO]: Initializing Right Click Harvest on FABRIC
+[01:54:10] [main/INFO]: [ServerCore] Loaded V1.5.5+1.21.1!
+[01:54:10] [main/INFO]: Shield API initialized!
+[01:54:10] [main/INFO]: [STDERR]: Failed to resolve EntityAttribute with id: 
+[01:54:10] [main/INFO]: [STDERR]: Failed to resolve EntityAttribute with id: 
+[01:54:10] [main/INFO]: Deserializing ItTakesPillageConfig from 'config/takesapillage.json'
+[01:54:10] [main/INFO]: Registered region minecraft:overworld to index 0 for type OVERWORLD
+[01:54:10] [main/INFO]: Registered region minecraft:nether to index 0 for type NETHER
+[01:54:10] [main/INFO]: Registered region yungscavebiomes:overworld to index 1 for type OVERWORLD
+[01:54:11] [main/INFO]: Constructing common components for tinyskeletons:main
+[01:54:11] [main/ERROR]: No data fixer registered for baby_skeleton
+[01:54:11] [main/ERROR]: No data fixer registered for baby_wither_skeleton
+[01:54:11] [main/ERROR]: No data fixer registered for baby_stray
+[01:54:11] [main/ERROR]: No data fixer registered for baby_bogged
+[01:54:11] [main/ERROR]: No data fixer registered for mushroom
+[01:54:11] [main/ERROR]: No data fixer registered for 
+[01:54:11] [main/INFO]: Registered the FluidEffect with Unique ID of minecraft:water for Water (Fluid Amount Required: 81000) with the ID 0
+[01:54:11] [main/INFO]: Registered the FluidEffect with Unique ID of minecraft:lava for Lava (Fluid Amount Required: 81000) with the ID 1
+[01:54:11] [main/INFO]: Registered the FluidEffect with Unique ID of travelersbackpack:potion for block.travelersbackpack.potion_still (Fluid Amount Required: 27000) with the ID 2
+[01:54:11] [main/INFO]: Registered the FluidEffect with Unique ID of minecraft:milk for Air (Fluid Amount Required: 81000) with the ID 3
+[01:54:11] [main/INFO]: [STDOUT]: TxniLib onInitialize!
+[01:54:11] [main/INFO]: Registering Item Groups for witcher_rpg
+[01:54:11] [main/INFO]: Registered Witcher Items
+[01:54:11] [main/INFO]: Reflections took 2 ms to scan 1 urls, producing 1 keys and 3 values
+[01:54:11] [main/INFO]: Reflections took 1 ms to scan 1 urls, producing 1 keys and 3 values
+[01:54:11] [main/INFO]: Reflections took 1 ms to scan 1 urls, producing 1 keys and 2 values
+[01:54:11] [main/INFO]: Reflections took 1 ms to scan 1 urls, producing 1 keys and 2 values
+[01:54:11] [main/INFO]: Reflections took 19 ms to scan 1 urls, producing 5 keys and 66 values
+[01:54:12] [main/INFO]: Reflections took 16 ms to scan 1 urls, producing 5 keys and 66 values
+[01:54:12] [main/INFO]: Reflections took 2 ms to scan 1 urls, producing 1 keys and 2 values
+[01:54:12] [main/INFO]: Reflections took 1 ms to scan 1 urls, producing 1 keys and 2 values
+[01:54:12] [main/INFO]: Krypton is now accelerating your Minecraft server's networking stack 🚀
+[01:54:12] [main/INFO]: Initialized block sets in 11ms
+[01:54:12] [main/INFO]: Initialized color sets in 30ms
+[01:54:12] [main/ERROR]: Registry 'moonlight:world_saved_data_type' was empty after loading
+[01:54:12] [main/ERROR]: Registry 'moonlight:custom_map_data_types' was empty after loading
+[01:54:12] [main/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[01:54:13] [main/INFO]: Structure placement for `awesomedungeon:abandoned_oak_palace/start_pool`: { spacing: 50, separation: 25, salt: 1694767080, useValueFromConfiguration: true}
+[01:54:13] [main/INFO]: Structure placement for `awesomedungeon:better_default_jungle_temple/start_pool`: { spacing: 50, separation: 25, salt: 1654787080, useValueFromConfiguration: true}
+[01:54:13] [main/INFO]: Structure placement for `awesomedungeonocean:brigantine/start_pool`: { spacing: 25, separation: 10, salt: 294215156, useValueFromConfiguration: true}
+[01:54:13] [main/INFO]: Structure placement for `awesomedungeon:desert_temple_husk/start_pool`: { spacing: 50, separation: 25, salt: 1394767080, useValueFromConfiguration: true}
+[01:54:13] [main/INFO]: Structure placement for `awesomedungeonocean:frigate_large/start_pool`: { spacing: 25, separation: 10, salt: 354415156, useValueFromConfiguration: true}
+[01:54:13] [main/INFO]: Structure placement for `awesomedungeonocean:frigate_medium/start_pool`: { spacing: 25, separation: 10, salt: 474155156, useValueFromConfiguration: true}
+[01:54:13] [main/INFO]: Structure placement for `awesomedungeon:jungle_giant_tree/start_pool`: { spacing: 50, separation: 25, salt: 1494763380, useValueFromConfiguration: true}
+[01:54:13] [main/INFO]: Structure placement for `awesomedungeon:mushroom_abandonned/start_pool`: { spacing: 50, separation: 25, salt: 1494227080, useValueFromConfiguration: true}
+[01:54:13] [main/INFO]: Structure placement for `awesomedungeonocean:ocean_cage/start_pool`: { spacing: 25, separation: 10, salt: 40842806, useValueFromConfiguration: true}
+[01:54:13] [main/INFO]: Structure placement for `awesomedungeonocean:ocean_quad/start_pool`: { spacing: 25, separation: 10, salt: 254835856, useValueFromConfiguration: true}
+[01:54:13] [main/INFO]: Structure placement for `awesomedungeonocean:ocean_ruin_pillager/start_pool`: { spacing: 25, separation: 10, salt: 254145856, useValueFromConfiguration: true}
+[01:54:13] [main/INFO]: Structure placement for `awesomedungeonocean:ocean_ruin_vanilla_temple/start_pool`: { spacing: 25, separation: 10, salt: 25482856, useValueFromConfiguration: true}
+[01:54:13] [main/INFO]: Structure placement for `awesomedungeonocean:ocean_temple_quad/start_pool`: { spacing: 25, separation: 10, salt: 35482856, useValueFromConfiguration: true}
+[01:54:13] [main/INFO]: Structure placement for `awesomedungeonocean:ocean_the_column_temple/start_pool`: { spacing: 25, separation: 10, salt: 15482856, useValueFromConfiguration: true}
+[01:54:13] [main/INFO]: Structure placement for `awesomedungeonocean:ocean_warn_temple/start_pool`: { spacing: 25, separation: 10, salt: 45482856, useValueFromConfiguration: true}
+[01:54:13] [main/INFO]: Structure placement for `awesomedungeon:swamp_big_temple/start_pool`: { spacing: 50, separation: 25, salt: 1594763280, useValueFromConfiguration: true}
+[01:54:13] [main/INFO]: Structure placement for `awesomedungeon:the_usine/start_pool`: { spacing: 50, separation: 25, salt: 1694767078, useValueFromConfiguration: true}
+[01:54:13] [main/INFO]: Structure placement for `awesomedungeon:t_z_tower/start_pool`: { spacing: 50, separation: 25, salt: 1794767078, useValueFromConfiguration: true}
+[01:54:13] [main/INFO]: Structure placement for `awesomedungeon:witch_castle/start_pool`: { spacing: 50, separation: 25, salt: 1894776078, useValueFromConfiguration: true}
+[01:54:15] [Worker-Main-2/ERROR]: Couldn't load tag archers_expansion:tundra_hunter as it is missing following references: archers_expansion:winters_grip (from lne_archers)
+[01:54:15] [Worker-Main-2/ERROR]: Couldn't load tag archers_expansion:war_archer as it is missing following references: archers_expansion:fan_of_fire (from lne_archers)
+[01:54:15] [Worker-Main-2/ERROR]: Couldn't load tag archers_expansion:deadeye as it is missing following references: archers_expansion:infiltrators_arrow (from lne_archers)
+[01:54:15] [Worker-Main-3/INFO]: All Tags to be dealt with: [accessories:trinket_group_charm-trinket, accessories:belt, accessories:ring, accessories:trinket_group_spell-quiver, accessories:trinket_group_spell-scroll, accessories:hat, accessories:trinket_group_spell-trinket, accessories:trinket_group_spell-book, accessories:trinket_group_misc-quiver, accessories:back, accessories:necklace]
+[01:54:15] [Worker-Main-3/WARN]: [RuntimeTagModification] Adding Entries from [trinkets:charm/trinket] to [accessories:trinket_group_charm-trinket]: 
+     [#spell_engine:spell_trinket (from spell_engine:trinkets_compat)]
+[01:54:15] [Worker-Main-3/WARN]: [RuntimeTagModification] Adding Entries from [accessories:belt] to [trinkets:legs/belt]: 
+     [minecraft:lantern (from immersivelanterns), minecraft:soul_lantern (from immersivelanterns)]
+[01:54:15] [Worker-Main-3/WARN]: [RuntimeTagModification] Adding Entries from [trinkets:offhand/ring] to [accessories:ring]: 
+     [#jewelry:rings (from jewelry), #spell_engine:spell_ring (from spell_engine:trinkets_compat)]
+[01:54:15] [Worker-Main-3/WARN]: [RuntimeTagModification] Adding Entries from [trinkets:hand/ring] to [accessories:ring]: 
+     [#jewelry:rings (from jewelry), #spell_engine:spell_ring (from spell_engine:trinkets_compat)]
+[01:54:15] [Worker-Main-3/WARN]: [RuntimeTagModification] Adding Entries from [trinkets:offhand/ring] to [trinkets:hand/ring]: 
+     [#jewelry:rings (from jewelry), #spell_engine:spell_ring (from spell_engine:trinkets_compat)]
+[01:54:15] [Worker-Main-3/WARN]: [RuntimeTagModification] Adding Entries from [trinkets:hand/ring] to [trinkets:offhand/ring]: 
+     [#jewelry:rings (from jewelry), #spell_engine:spell_ring (from spell_engine:trinkets_compat)]
+[01:54:15] [Worker-Main-3/WARN]: [RuntimeTagModification] Adding Entries from [trinkets:spell/quiver] to [accessories:trinket_group_spell-quiver]: 
+     [#spell_engine:spell_quiver (from spell_engine:trinkets_compat)]
+[01:54:15] [Worker-Main-3/WARN]: [RuntimeTagModification] Adding Entries from [trinkets:spell/scroll] to [accessories:trinket_group_spell-scroll]: 
+     [spell_engine:scroll (from spell_engine:trinkets_compat)]
+[01:54:15] [Worker-Main-3/WARN]: [RuntimeTagModification] Adding Entries from [trinkets:head/hat] to [accessories:hat]: 
+     [formidulus:deer_skull (from formidulus), formidulus:jolly_hat (from formidulus), the_bumblezone:flower_headwear (from the_bumblezone)]
+[01:54:15] [Worker-Main-3/WARN]: [RuntimeTagModification] Adding Entries from [trinkets:spell/trinket] to [accessories:trinket_group_spell-trinket]: 
+     [#spell_engine:spell_trinket (from spell_engine:trinkets_compat)]
+[01:54:15] [Worker-Main-3/WARN]: [RuntimeTagModification] Adding Entries from [trinkets:spell/book] to [accessories:trinket_group_spell-book]: 
+     [#spell_engine:spell_books (from spell_engine:trinkets_compat), spell_engine:scroll (from spell_engine:trinkets_compat)]
+[01:54:15] [Worker-Main-3/WARN]: [RuntimeTagModification] Adding Entries from [trinkets:misc/quiver] to [accessories:trinket_group_misc-quiver]: 
+     [#spell_engine:spell_quiver (from spell_engine:trinkets_compat)]
+[01:54:15] [Worker-Main-3/WARN]: [RuntimeTagModification] Adding Entries from [trinkets:chest/back] to [accessories:back]: 
+     [travelersbackpack:standard (from travelersbackpack), travelersbackpack:netherite (from travelersbackpack), travelersbackpack:diamond (from travelersbackpack), travelersbackpack:gold (from travelersbackpack), travelersbackpack:emerald (from travelersbackpack), travelersbackpack:iron (from travelersbackpack), travelersbackpack:lapis (from travelersbackpack), travelersbackpack:redstone (from travelersbackpack), travelersbackpack:coal (from travelersbackpack), travelersbackpack:quartz (from travelersbackpack), travelersbackpack:bookshelf (from travelersbackpack), travelersbackpack:end (from travelersbackpack), travelersbackpack:nether (from travelersbackpack), travelersbackpack:sandstone (from travelersbackpack), travelersbackpack:snow (from travelersbackpack), travelersbackpack:sponge (from travelersbackpack), travelersbackpack:cake (from travelersbackpack), travelersbackpack:cactus (from travelersbackpack), travelersbackpack:hay (from travelersbackpack), travelersbackpack:melon (from travelersbackpack), travelersbackpack:pumpkin (from travelersbackpack), travelersbackpack:creeper (from travelersbackpack), travelersbackpack:dragon (from travelersbackpack), travelersbackpack:enderman (from travelersbackpack), travelersbackpack:blaze (from travelersbackpack), travelersbackpack:ghast (from travelersbackpack), travelersbackpack:magma_cube (from travelersbackpack), travelersbackpack:skeleton (from travelersbackpack), travelersbackpack:spider (from travelersbackpack), travelersbackpack:wither (from travelersbackpack), travelersbackpack:warden (from travelersbackpack), travelersbackpack:bat (from travelersbackpack), travelersbackpack:bee (from travelersbackpack), travelersbackpack:wolf (from travelersbackpack), travelersbackpack:fox (from travelersbackpack), travelersbackpack:ocelot (from travelersbackpack), travelersbackpack:horse (from travelersbackpack), travelersbackpack:cow (from travelersbackpack), travelersbackpack:pig (from travelersbackpack), travelersbackpack:sheep (from travelersbackpack), travelersbackpack:chicken (from travelersbackpack), travelersbackpack:squid (from travelersbackpack), travelersbackpack:villager (from travelersbackpack), travelersbackpack:iron_golem (from travelersbackpack)]
+[01:54:15] [Worker-Main-3/WARN]: [RuntimeTagModification] Adding Entries from [accessories:back] to [trinkets:chest/back]: 
+     [travelersbackpack:standard (from travelersbackpack), travelersbackpack:netherite (from travelersbackpack), travelersbackpack:diamond (from travelersbackpack), travelersbackpack:gold (from travelersbackpack), travelersbackpack:emerald (from travelersbackpack), travelersbackpack:iron (from travelersbackpack), travelersbackpack:lapis (from travelersbackpack), travelersbackpack:redstone (from travelersbackpack), travelersbackpack:coal (from travelersbackpack), travelersbackpack:quartz (from travelersbackpack), travelersbackpack:bookshelf (from travelersbackpack), travelersbackpack:end (from travelersbackpack), travelersbackpack:nether (from travelersbackpack), travelersbackpack:sandstone (from travelersbackpack), travelersbackpack:snow (from travelersbackpack), travelersbackpack:sponge (from travelersbackpack), travelersbackpack:cake (from travelersbackpack), travelersbackpack:cactus (from travelersbackpack), travelersbackpack:hay (from travelersbackpack), travelersbackpack:melon (from travelersbackpack), travelersbackpack:pumpkin (from travelersbackpack), travelersbackpack:creeper (from travelersbackpack), travelersbackpack:dragon (from travelersbackpack), travelersbackpack:enderman (from travelersbackpack), travelersbackpack:blaze (from travelersbackpack), travelersbackpack:ghast (from travelersbackpack), travelersbackpack:magma_cube (from travelersbackpack), travelersbackpack:skeleton (from travelersbackpack), travelersbackpack:spider (from travelersbackpack), travelersbackpack:wither (from travelersbackpack), travelersbackpack:warden (from travelersbackpack), travelersbackpack:bat (from travelersbackpack), travelersbackpack:bee (from travelersbackpack), travelersbackpack:wolf (from travelersbackpack), travelersbackpack:fox (from travelersbackpack), travelersbackpack:ocelot (from travelersbackpack), travelersbackpack:horse (from travelersbackpack), travelersbackpack:cow (from travelersbackpack), travelersbackpack:pig (from travelersbackpack), travelersbackpack:sheep (from travelersbackpack), travelersbackpack:chicken (from travelersbackpack), travelersbackpack:squid (from travelersbackpack), travelersbackpack:villager (from travelersbackpack), travelersbackpack:iron_golem (from travelersbackpack)]
+[01:54:15] [Worker-Main-3/WARN]: [RuntimeTagModification] Adding Entries from [trinkets:chest/necklace] to [accessories:necklace]: 
+     [formidulus:deer_necklace (from formidulus), #jewelry:necklaces (from jewelry), #witcher_rpg:witcher_medallions? (from witcher_rpg), #spell_engine:spell_necklace (from spell_engine:trinkets_compat)]
+[01:54:15] [Worker-Main-3/WARN]: [RuntimeTagModification] Adding Entries from [accessories:necklace] to [trinkets:chest/necklace]: 
+     [#witcher_rpg:witcher_medallions? (from witcher_rpg)]
+[01:54:15] [Worker-Main-1/ERROR]: Couldn't load tag aether_villages:collections/deep_aether_biomes as it is missing following references: deep_aether:aerlavender_fields (from aether_villages), deep_aether:aerglow_forest (from aether_villages), deep_aether:yagroot_swamp (from aether_villages)
+[01:54:15] [Worker-Main-1/ERROR]: Couldn't load tag aether_villages:collections/ancient_aether_biomes as it is missing following references: #ancient_aether:is_ancient_aether_biome (from aether_villages)
+[01:54:15] [Worker-Main-1/ERROR]: Couldn't load tag aether_villages:collections/aether_redux_biomes as it is missing following references: aether_redux:skyfields (from aether_villages), aether_redux:gilded_groves (from aether_villages), aether_redux:cloudcaps (from aether_villages), aether_redux:frosted_forests (from aether_villages), aether_redux:glacial_tundra (from aether_villages)
+[01:54:16] [main/ERROR]: Parsing error loading recipe supplementaries:copper_lantern_conversion Unknown registry key in ResourceKey[minecraft:root / minecraft:block]: suppsquared:copper_lantern; Failed to parse either. First: Not a json array: {"block":"suppsquared:copper_lantern","properties":{"lit":"true"}}; Second: No key tag in MapLike[{"block":"suppsquared:copper_lantern","properties":{"lit":"true"}}]; Unknown registry key in ResourceKey[minecraft:root / minecraft:block]: suppsquared:copper_lantern
+[01:54:16] [main/ERROR]: Parsing error loading recipe armory_rpgs:justicar_helmet_smithing Failed to parse either. First: Input does not contain a key [fabric:type]: MapLike[{"item":"armory_rpgs:fallen_hero_upgrade"}]; Second: Failed to parse either. First: Not a json array: {"item":"armory_rpgs:fallen_hero_upgrade"}; Second: No key tag in MapLike[{"item":"armory_rpgs:fallen_hero_upgrade"}]; Unknown registry key in ResourceKey[minecraft:root / minecraft:item]: armory_rpgs:fallen_hero_upgrade
+[01:54:16] [main/ERROR]: Parsing error loading recipe jeed:inebriation Unknown registry key in ResourceKey[minecraft:root / minecraft:recipe_serializer]: jeed:effect_provider
+[01:54:16] [main/ERROR]: Parsing error loading recipe jeed:remedy Unknown registry key in ResourceKey[minecraft:root / minecraft:recipe_serializer]: jeed:effect_provider
+[01:54:16] [main/INFO]: Loaded 3564 recipes
+[01:54:16] [main/ERROR]: Parsing error loading custom advancement darkbosses:old_champions_remains_boss: Failed to parse either. First: Not a tag id; Second: Failed to parse either. First: Not a json array: "soulsweapons:draugr_boss"; Second: Failed to get element soulsweapons:draugr_boss missed input: {"old_champions_remains_boss":{"trigger":"minecraft:player_killed_entity","conditions":{"entity":{"type":"soulsweapons:draugr_boss"}}}}; Unknown registry key in ResourceKey[minecraft:root / minecraft:item]: soulsweapons:draugr
+[01:54:16] [main/ERROR]: Parsing error loading custom advancement darkbosses:corrupted_champion_boss: Failed to parse either. First: Not a tag id; Second: Failed to parse either. First: Not a json array: "graveyard:lich"; Second: Failed to get element graveyard:lich missed input: {"corrupted_champion_boss":{"trigger":"minecraft:player_killed_entity","conditions":{"entity":{"type":"graveyard:lich"}}}}; Unknown registry key in ResourceKey[minecraft:root / minecraft:item]: graveyard:purple_bone_staff
+[01:54:16] [main/ERROR]: Parsing error loading custom advancement darkbosses:night_prowler_boss: Failed to parse either. First: Not a tag id; Second: Failed to parse either. First: Not a json array: "soulsweapons:night_prowler"; Second: Failed to get element soulsweapons:night_prowler missed input: {"decaying_king_boss":{"trigger":"minecraft:player_killed_entity","conditions":{"entity":{"type":"soulsweapons:night_prowler"}}}}; Unknown registry key in ResourceKey[minecraft:root / minecraft:item]: soulsweapons:soul_reaper
+[01:54:16] [main/ERROR]: Parsing error loading custom advancement darkbosses:fallen_icon_boss: Failed to parse either. First: Not a tag id; Second: Failed to parse either. First: Not a json array: "soulsweapons:moonknight"; Second: Failed to get element soulsweapons:moonknight missed input: {"fallen_icon_boss":{"trigger":"minecraft:player_killed_entity","conditions":{"entity":{"type":"soulsweapons:moonknight"}}}}; Unknown registry key in ResourceKey[minecraft:root / minecraft:item]: soulsweapons:moonlight_greatsword
+[01:54:16] [main/ERROR]: Parsing error loading custom advancement darkbosses:day_stalker_boss: Failed to parse either. First: Not a tag id; Second: Failed to parse either. First: Not a json array: "soulsweapons:day_stalker"; Second: Failed to get element soulsweapons:day_stalker missed input: {"decaying_king_boss":{"trigger":"minecraft:player_killed_entity","conditions":{"entity":{"type":"soulsweapons:day_stalker"}}}}; Unknown registry key in ResourceKey[minecraft:root / minecraft:item]: soulsweapons:dawnbreaker
+[01:54:16] [main/ERROR]: Parsing error loading custom advancement darkbosses:decaying_king_boss: Failed to parse either. First: Not a tag id; Second: Failed to parse either. First: Not a json array: "soulsweapons:accursed_lord_boss"; Second: Failed to get element soulsweapons:accursed_lord_boss missed input: {"decaying_king_boss":{"trigger":"minecraft:player_killed_entity","conditions":{"entity":{"type":"soulsweapons:accursed_lord_boss"}}}}; Unknown registry key in ResourceKey[minecraft:root / minecraft:item]: soulsweapons:darkin_blade
+[01:54:16] [main/ERROR]: Parsing error loading custom advancement darkbosses:frenzied_shade_boss: Failed to parse either. First: Not a tag id; Second: Failed to parse either. First: Not a json array: "soulsweapons:night_shade"; Second: Failed to get element soulsweapons:night_shade missed input: {"frenzied_shade_boss":{"trigger":"minecraft:player_killed_entity","conditions":{"entity":{"type":"soulsweapons:night_shade"}}}}; Unknown registry key in ResourceKey[minecraft:root / minecraft:item]: soulsweapons:essence_of_eventide
+[01:54:16] [main/ERROR]: Parsing error loading custom advancement darkbosses:monarch_of_chaos_boss: Failed to parse either. First: Not a tag id; Second: Failed to parse either. First: Not a json array: "soulsweapons:chaos_monarch"; Second: Failed to get element soulsweapons:chaos_monarch missed input: {"monarch_of_chaos_boss":{"trigger":"minecraft:player_killed_entity","conditions":{"entity":{"type":"soulsweapons:chaos_monarch"}}}}; Unknown registry key in ResourceKey[minecraft:root / minecraft:item]: soulsweapons:chaos_orb
+[01:54:16] [main/ERROR]: Parsing error loading custom advancement darkbosses:magus_boss: Failed to parse either. First: Not a tag id; Second: Failed to parse either. First: Not a json array: "spellbladenext:magus"; Second: Failed to get element spellbladenext:magus missed input: {"void_blossom_boss":{"trigger":"minecraft:player_killed_entity","conditions":{"entity":{"type":"spellbladenext:magus"}}}}; Unknown registry key in ResourceKey[minecraft:root / minecraft:item]: spellbladenext:prismatic
+[01:54:16] [main/ERROR]: Parsing error loading custom advancement darkbosses:info_graveyard_bosses: Unknown registry key in ResourceKey[minecraft:root / minecraft:item]: graveyard:soul_fire_brazier
+[01:54:16] [main/ERROR]: Parsing error loading custom advancement darkbosses:info_souls_bosses: Unknown registry key in ResourceKey[minecraft:root / minecraft:item]: soulsweapons:lord_soul_dark
+[01:54:16] [main/ERROR]: Parsing error loading custom advancement darkbosses:info_spellblade_bosses: Unknown registry key in ResourceKey[minecraft:root / minecraft:item]: spellbladenext:flaming_falchion
+[01:54:16] [main/ERROR]: Parsing error loading custom advancement darkbosses:returning_knight_boss: Failed to parse either. First: Not a tag id; Second: Failed to parse either. First: Not a json array: "soulsweapons:returning_knight"; Second: Failed to get element soulsweapons:returning_knight missed input: {"returning_knight_boss":{"trigger":"minecraft:player_killed_entity","conditions":{"entity":{"type":"soulsweapons:returning_knight"}}}}; Unknown registry key in ResourceKey[minecraft:root / minecraft:item]: soulsweapons:altar_block
+[01:54:16] [main/ERROR]: Couldn't load advancements: [minecraft:give_quest_trader_trade, minecraft:wander_add_map]
+[01:54:16] [main/INFO]: Loaded 3382 advancements
+[01:54:16] [main/INFO]: Loaded config for: brutalbosses.json
+[01:54:16] [main/INFO]: Loaded boss: brutalbosses:drownedboss for: minecraft:drowned
+[01:54:16] [main/INFO]: Loaded boss: brutalbosses:irongolemboss for: minecraft:iron_golem
+[01:54:16] [main/INFO]: Loaded boss: brutalbosses:snowgolemboss for: minecraft:snow_golem
+[01:54:16] [main/INFO]: Loaded boss: brutalbosses:zombieboss for: minecraft:zombie
+[01:54:16] [main/INFO]: Loaded boss: brutalbosses:skeletonshieldboss for: minecraft:skeleton
+[01:54:16] [main/INFO]: Loaded boss: brutalbosses:pillagerboss for: minecraft:pillager
+[01:54:16] [main/INFO]: Loaded boss: brutalbosses:vexboss for: minecraft:vex
+[01:54:16] [main/INFO]: Loaded boss: brutalbosses:evokerboss for: minecraft:evoker
+[01:54:16] [main/INFO]: Loaded boss: brutalbosses:dummyboss for: minecraft:zombie
+[01:54:16] [main/INFO]: Loaded boss: brutalbosses:vindicatorboss for: minecraft:vindicator
+[01:54:16] [main/INFO]: Loaded boss: brutalbosses:witherskeletonshieldboss for: minecraft:wither_skeleton
+[01:54:16] [main/INFO]: Loaded boss: brutalbosses:witherskeletonrangedboss for: minecraft:wither_skeleton
+[01:54:16] [main/INFO]: Loaded boss: brutalbosses:cavespiderboss for: minecraft:cave_spider
+[01:54:16] [main/INFO]: Loaded boss: brutalbosses:zombietoxicboss for: minecraft:zombie
+[01:54:16] [main/INFO]: Loaded boss: brutalbosses:huskboss for: minecraft:husk
+[01:54:16] [main/INFO]: Loaded boss: brutalbosses:evokersummoner for: minecraft:evoker
+[01:54:16] [main/INFO]: Loaded boss: brutalbosses:archmageboss for: minecraft:wandering_trader
+[01:54:16] [main/INFO]: Loaded boss: brutalbosses:guardianboss for: minecraft:guardian
+[01:54:16] [main/INFO]: Loaded boss: brutalbosses:endervindicatorboss for: minecraft:vindicator
+[01:54:16] [main/INFO]: Loaded boss: brutalbosses:shulkerboss for: minecraft:shulker
+[01:54:16] [main/INFO]: Loaded boss: brutalbosses:zoglinboss for: minecraft:zoglin
+[01:54:16] [main/INFO]: Loaded boss: brutalbosses:evilchickenboss for: minecraft:chicken
+[01:54:16] [main/INFO]: Loaded boss: brutalbosses:blazeboss for: minecraft:blaze
+[01:54:16] [main/INFO]: Loaded boss: brutalbosses:witchboss for: minecraft:witch
+[01:54:16] [main/INFO]: Loaded boss: brutalbosses:phantomboss for: minecraft:phantom
+[01:54:16] [main/INFO]: Loaded boss: brutalbosses:madcowboss for: minecraft:mooshroom
+[01:54:16] [main/INFO]: Loaded boss: brutalbosses:rabbitboss for: minecraft:rabbit
+[01:54:16] [main/INFO]: Loaded boss: brutalbosses:piglinbruteboss for: minecraft:piglin_brute
+[01:54:16] [main/INFO]: Loaded boss: brutalbosses:ghastboss for: minecraft:ghast
+[01:54:16] [main/INFO]: Loaded boss: brutalbosses:strayboss for: minecraft:stray
+[01:54:16] [main/INFO]: Loaded config for: connectivity.json
+[01:54:16] [main/INFO]: Saved 36 Value Calculator templates to config folder
+[01:54:16] [main/INFO]: Loaded config for: lootintegrations.json
+[01:54:16] [main/INFO]: Reloading Spawner Rune data...
+[01:54:16] [ForkJoinPool.commonPool-worker-1/INFO]: Loaded 56 translation keys
+[01:54:16] [main/INFO]: Reloading grave shape (server)
+[01:54:16] [main/INFO]: Grave model and shape reload successful (server)
+[01:54:16] [main/INFO]: Reloading YIGD graveyard data (server)
+[01:54:16] [main/INFO]: Graveyard data successfully reloaded (server)
+[01:54:16] [main/INFO]: Reloading YIGD grave area overrides (server)
+[01:54:16] [main/INFO]: Grave area overrides successfully reloaded (server)
+[01:54:16] [main/WARN]: Not all defined tags for registry ResourceKey[minecraft:root / minecraft:worldgen/biome] are present in data pack: loot_n_explore:has_structure/deadeye_hideout, loot_n_explore:has_structure/tundra_hunter_hut, loot_n_explore:has_structure/war_archer_tower
+[01:54:17] [main/INFO]: Initialized TerraBlender biomes for level stem minecraft:the_nether
+[01:54:18] [main/INFO]: Initialized TerraBlender biomes for level stem minecraft:overworld
+[01:54:18] [main/INFO]: Applied 2628 biome modifications to 180 of 180 new biomes in 535.3 ms
+[01:54:18] [Server thread/INFO]: Dispatching loading event for config easyanvils-server.toml
+[01:54:18] [Server thread/INFO]: Dispatching loading event for config illagerinvasion-server.toml
+[01:54:18] [Server thread/INFO]: [STDOUT]: Loaded container: paladins:acolyte_wand
+[01:54:18] [Server thread/INFO]: [STDOUT]: Loaded container: witcher_rpg:aerondight_sword
+[01:54:18] [Server thread/INFO]: [STDOUT]: Loaded container: berserker_rpg:aeternium_berserker_axe
+[01:54:18] [Server thread/INFO]: [STDOUT]: Loaded container: paladins:aeternium_claymore
+[01:54:18] [Server thread/INFO]: [STDOUT]: Loaded container: rogues:aeternium_dagger
+[01:54:18] [Server thread/INFO]: [STDOUT]: Loaded container: rogues:aeternium_double_axe
+[01:54:18] [Server thread/INFO]: [STDOUT]: Loaded container: rogues:aeternium_glaive
+[01:54:18] [Server thread/INFO]: [STDOUT]: Loaded container: paladins:aeternium_great_hammer
+[01:54:18] [Server thread/INFO]: [STDOUT]: Loaded container: rogues:aeternium_sickle
+[01:54:18] [Server thread/INFO]: [STDOUT]: Loaded container: archers:aeternium_spear
+[01:54:18] [Server thread/INFO]: [STDOUT]: Loaded container: witcher_rpg:aeternium_witcher_sword
+[01:54:18] [Server thread/INFO]: [STDOUT]: Loaded container: berserker_rpg:aether_berserker_axe
+[01:54:18] [Server thread/INFO]: [STDOUT]: Loaded container: paladins:aether_claymore
+[01:54:18] [Server thread/INFO]: [STDOUT]: Loaded container: rogues:aether_dagger
+[01:54:18] [Server thread/INFO]: [STDOUT]: Loaded container: rogues:aether_double_axe
+[01:54:18] [Server thread/INFO]: [STDOUT]: Loaded container: rogues:aether_glaive
+[01:54:18] [Server thread/INFO]: [STDOUT]: Loaded container: paladins:aether_great_hammer
+[01:54:18] [Server thread/INFO]: [STDOUT]: Loaded container: archers:aether_heavy_crossbow
+[01:54:18] [Server thread/INFO]: [STDOUT]: Loaded container: paladins:aether_holy_staff
+[01:54:18] [Server thread/INFO]: [STDOUT]: Loaded container: archers:aether_longbow
+[01:54:18] [Server thread/INFO]: [STDOUT]: Loaded container: paladins:aether_mace
+[01:54:18] [Server thread/INFO]: [STDOUT]: Loaded container: rogues:aether_sickle
+[01:54:18] [Server thread/INFO]: [STDOUT]: Loaded container: archers:aether_spear
+[01:54:18] [Server thread/INFO]: [STDOUT]: Loaded container: witcher_rpg:aether_witcher_sword
+[01:54:18] [Server thread/INFO]: [STDOUT]: Loaded container: wizards:aether_wizard_staff
+[01:54:18] [Server thread/INFO]: [STDOUT]: Loaded container: bettercombat:anchor
+[01:54:18] [Server thread/INFO]: [STDOUT]: Loaded container: minecells:assassins_dagger
+[01:54:18] [Server thread/INFO]: [STDOUT]: Loaded container: bettercombat:axe
+[01:54:18] [Server thread/INFO]: [STDOUT]: Loaded container: witcher_rpg:azure_wrath_sword
+[01:54:18] [Server thread/INFO]: [STDOUT]: Loaded container: minecells:balanced_blade
+[01:54:18] [Server thread/INFO]: [STDOUT]: Loaded container: bettercombat:battlestaff
+[01:54:18] [Server thread/INFO]: [STDOUT]: Loaded container: berserker_rpg:berserker_axe_attack
+[01:54:18] [Server thread/INFO]: [STDOUT]: Loaded container: minecells:blood_sword
+[01:54:18] [Server thread/INFO]: [STDOUT]: Loaded container: bettercombat:bow_two_handed_heavy
+[01:54:18] [Server thread/INFO]: [STDOUT]: Loaded container: bettercombat:bow_two_handed_light
+[01:54:18] [Server thread/INFO]: [STDOUT]: Loaded container: minecells:broadsword
+[01:54:18] [Server thread/INFO]: [STDOUT]: Loaded container: bettercombat:claw
+[01:54:18] [Server thread/INFO]: [STDOUT]: Loaded container: bettercombat:claymore
+[01:54:18] [Server thread/INFO]: [STDOUT]: Loaded container: archers:composite_longbow
+[01:54:18] [Server thread/INFO]: [STDOUT]: Loaded container: bettercombat:coral_blade
+[01:54:18] [Server thread/INFO]: [STDOUT]: Loaded container: bettercombat:crossbow_two_handed_heavy
+[01:54:18] [Server thread/INFO]: [STDOUT]: Loaded container: bettercombat:crossbow_two_handed_light
+[01:54:18] [Server thread/INFO]: [STDOUT]: Loaded container: minecells:crowbar
+[01:54:18] [Server thread/INFO]: [STDOUT]: Loaded container: archers:crystal_longbow
+[01:54:18] [Server thread/INFO]: [STDOUT]: Loaded container: minecells:cursed_sword
+[01:54:18] [Server thread/INFO]: [STDOUT]: Loaded container: bettercombat:cutlass
+[01:54:18] [Server thread/INFO]: [STDOUT]: Loaded container: bettercombat:dagger
+[01:54:18] [Server thread/INFO]: [STDOUT]: Loaded container: witcher_rpg:dark_iron_witcher_sword
+[01:54:18] [Server thread/INFO]: [STDOUT]: Loaded container: witcher_rpg:dark_steel_witcher_sword
+[01:54:18] [Server thread/INFO]: [STDOUT]: Loaded container: berserker_rpg:diamond_berserker_axe
+[01:54:18] [Server thread/INFO]: [STDOUT]: Loaded container: paladins:diamond_claymore
+[01:54:18] [Server thread/INFO]: [STDOUT]: Loaded container: rogues:diamond_dagger
+[01:54:18] [Server thread/INFO]: [STDOUT]: Loaded container: rogues:diamond_double_axe
+[01:54:18] [Server thread/INFO]: [STDOUT]: Loaded container: rogues:diamond_glaive
+[01:54:18] [Server thread/INFO]: [STDOUT]: Loaded container: paladins:diamond_great_hammer
+[01:54:18] [Server thread/INFO]: [STDOUT]: Loaded container: paladins:diamond_holy_staff
+[01:54:18] [Server thread/INFO]: [STDOUT]: Loaded container: paladins:diamond_holy_wand
+[01:54:18] [Server thread/INFO]: [STDOUT]: Loaded container: paladins:diamond_mace
+[01:54:18] [Server thread/INFO]: [STDOUT]: Loaded container: rogues:diamond_sickle
+[01:54:18] [Server thread/INFO]: [STDOUT]: Loaded container: archers:diamond_spear
+[01:54:18] [Server thread/INFO]: [STDOUT]: Loaded container: minecraft:diamond_sword
+[01:54:18] [Server thread/INFO]: [STDOUT]: Loaded container: witcher_rpg:diamond_witcher_sword
+[01:54:18] [Server thread/INFO]: [STDOUT]: Loaded container: bettercombat:double_axe
+[01:54:18] [Server thread/INFO]: [STDOUT]: Loaded container: lne_paladins:elder_guardian_claymore
+[01:54:18] [Server thread/INFO]: [STDOUT]: Loaded container: lne_rogues:elder_guardian_dagger
+[01:54:18] [Server thread/INFO]: [STDOUT]: Loaded container: lne_rogues:elder_guardian_double_axe
+[01:54:18] [Server thread/INFO]: [STDOUT]: Loaded container: lne_rogues:elder_guardian_glaive
+[01:54:18] [Server thread/INFO]: [STDOUT]: Loaded container: lne_archers:elder_guardian_heavy_crossbow
+[01:54:18] [Server thread/INFO]: [STDOUT]: Loaded container: lne_paladins:elder_guardian_holy_staff
+[01:54:18] [Server thread/INFO]: [STDOUT]: Loaded container: lne_archers:elder_guardian_long_bow
+[01:54:18] [Server thread/INFO]: [STDOUT]: Loaded container: lne_rogues:elder_guardian_sickle
+[01:54:18] [Server thread/INFO]: [STDOUT]: Loaded container: lne_archers:elder_guardian_spear
+[01:54:18] [Server thread/INFO]: [STDOUT]: Loaded container: lne_wizards:elder_guardian_staff_aqua
+[01:54:18] [Server thread/INFO]: [STDOUT]: Loaded container: lne_paladins:ender_dragon_claymore
+[01:54:18] [Server thread/INFO]: [STDOUT]: Loaded container: lne_rogues:ender_dragon_dagger
+[01:54:18] [Server thread/INFO]: [STDOUT]: Loaded container: lne_rogues:ender_dragon_double_axe
+[01:54:18] [Server thread/INFO]: [STDOUT]: Loaded container: lne_rogues:ender_dragon_glaive
+[01:54:18] [Server thread/INFO]: [STDOUT]: Loaded container: lne_archers:ender_dragon_heavy_crossbow
+[01:54:18] [Server thread/INFO]: [STDOUT]: Loaded container: lne_archers:ender_dragon_long_bow
+[01:54:18] [Server thread/INFO]: [STDOUT]: Loaded container: lne_rogues:ender_dragon_sickle
+[01:54:18] [Server thread/INFO]: [STDOUT]: Loaded container: lne_archers:ender_dragon_spear
+[01:54:18] [Server thread/INFO]: [STDOUT]: Loaded container: lne_wizards:ender_dragon_staff_arcane
+[01:54:18] [Server thread/INFO]: [STDOUT]: Loaded container: lne_wizards:ender_dragon_staff_wind
+[01:54:18] [Server thread/INFO]: [STDOUT]: Loaded container: bettercombat:fist
+[01:54:18] [Server thread/INFO]: [STDOUT]: Loaded container: minecells:flint
+[01:54:18] [Server thread/INFO]: [STDOUT]: Loaded container: berserker_rpg:flint_berserker_axe
+[01:54:18] [Server thread/INFO]: [STDOUT]: Loaded container: rogues:flint_dagger
+[01:54:18] [Server thread/INFO]: [STDOUT]: Loaded container: archers:flint_spear
+[01:54:18] [Server thread/INFO]: [STDOUT]: Loaded container: berserker_rpg:glacial_berserker_axe
+[01:54:18] [Server thread/INFO]: [STDOUT]: Loaded container: lne_paladins:glacial_claymore
+[01:54:18] [Server thread/INFO]: [STDOUT]: Loaded container: lne_rogues:glacial_dagger
+[01:54:18] [Server thread/INFO]: [STDOUT]: Loaded container: lne_rogues:glacial_double_axe
+[01:54:18] [Server thread/INFO]: [STDOUT]: Loaded container: lne_rogues:glacial_glaive
+[01:54:18] [Server thread/INFO]: [STDOUT]: Loaded container: lne_archers:glacial_heavy_crossbow
+[01:54:18] [Server thread/INFO]: [STDOUT]: Loaded container: lne_archers:glacial_long_bow
+[01:54:18] [Server thread/INFO]: [STDOUT]: Loaded container: lne_rogues:glacial_sickle
+[01:54:18] [Server thread/INFO]: [STDOUT]: Loaded container: lne_archers:glacial_spear
+[01:54:18] [Server thread/INFO]: [STDOUT]: Loaded container: lne_wizards:glacial_staff_frost
+[01:54:18] [Server thread/INFO]: [STDOUT]: Loaded container: bettercombat:glaive
+[01:54:18] [Server thread/INFO]: [STDOUT]: Loaded container: berserker_rpg:golden_berserker_axe
+[01:54:18] [Server thread/INFO]: [STDOUT]: Loaded container: paladins:golden_claymore
+[01:54:18] [Server thread/INFO]: [STDOUT]: Loaded container: rogues:golden_dagger
+[01:54:18] [Server thread/INFO]: [STDOUT]: Loaded container: rogues:golden_double_axe
+[01:54:18] [Server thread/INFO]: [STDOUT]: Loaded container: rogues:golden_glaive
+[01:54:18] [Server thread/INFO]: [STDOUT]: Loaded container: paladins:golden_great_hammer
+[01:54:18] [Server thread/INFO]: [STDOUT]: Loaded container: paladins:golden_mace
+[01:54:18] [Server thread/INFO]: [STDOUT]: Loaded container: rogues:golden_sickle
+[01:54:18] [Server thread/INFO]: [STDOUT]: Loaded container: archers:golden_spear
+[01:54:18] [Server thread/INFO]: [STDOUT]: Loaded container: minecraft:golden_sword
+[01:54:18] [Server thread/INFO]: [STDOUT]: Loaded container: witcher_rpg:golden_witcher_sword
+[01:54:18] [Server thread/INFO]: [STDOUT]: Loaded container: bettercombat:halberd
+[01:54:18] [Server thread/INFO]: [STDOUT]: Loaded container: bettercombat:hammer
+[01:54:18] [Server thread/INFO]: [STDOUT]: Loaded container: minecells:hattoris_katana
+[01:54:18] [Server thread/INFO]: [STDOUT]: Loaded container: bettercombat:heavy_axe
+[01:54:18] [Server thread/INFO]: [STDOUT]: Loaded container: archers:heavy_crossbow
+[01:54:18] [Server thread/INFO]: [STDOUT]: Loaded container: paladins:holy_staff
+[01:54:18] [Server thread/INFO]: [STDOUT]: Loaded container: paladins:holy_wand
+[01:54:18] [Server thread/INFO]: [STDOUT]: Loaded container: witcher_rpg:iris_sword
+[01:54:18] [Server thread/INFO]: [STDOUT]: Loaded container: berserker_rpg:iron_berserker_axe
+[01:54:18] [Server thread/INFO]: [STDOUT]: Loaded container: paladins:iron_claymore
+[01:54:18] [Server thread/INFO]: [STDOUT]: Loaded container: rogues:iron_dagger
+[01:54:18] [Server thread/INFO]: [STDOUT]: Loaded container: rogues:iron_double_axe
+[01:54:18] [Server thread/INFO]: [STDOUT]: Loaded container: rogues:iron_glaive
+[01:54:18] [Server thread/INFO]: [STDOUT]: Loaded container: paladins:iron_great_hammer
+[01:54:18] [Server thread/INFO]: [STDOUT]: Loaded container: paladins:iron_mace
+[01:54:18] [Server thread/INFO]: [STDOUT]: Loaded container: rogues:iron_sickle
+[01:54:18] [Server thread/INFO]: [STDOUT]: Loaded container: archers:iron_spear
+[01:54:18] [Server thread/INFO]: [STDOUT]: Loaded container: minecraft:iron_sword
+[01:54:18] [Server thread/INFO]: [STDOUT]: Loaded container: witcher_rpg:iron_witcher_sword
+[01:54:18] [Server thread/INFO]: [STDOUT]: Loaded container: bettercombat:katana
+[01:54:18] [Server thread/INFO]: [STDOUT]: Loaded container: bettercombat:lance
+[01:54:18] [Server thread/INFO]: [STDOUT]: Loaded container: bettercombat:mace
+[01:54:18] [Server thread/INFO]: [STDOUT]: Loaded container: minecraft:mace
+[01:54:18] [Server thread/INFO]: [STDOUT]: Loaded container: witcher_rpg:meteorite_silver_witcher_sword
+[01:54:18] [Server thread/INFO]: [STDOUT]: Loaded container: witcher_rpg:meteorite_witcher_sword
+[01:54:18] [Server thread/INFO]: [STDOUT]: Loaded container: berserker_rpg:netherite_berserker_axe
+[01:54:18] [Server thread/INFO]: [STDOUT]: Loaded container: paladins:netherite_claymore
+[01:54:18] [Server thread/INFO]: [STDOUT]: Loaded container: rogues:netherite_dagger
+[01:54:18] [Server thread/INFO]: [STDOUT]: Loaded container: rogues:netherite_double_axe
+[01:54:18] [Server thread/INFO]: [STDOUT]: Loaded container: rogues:netherite_glaive
+[01:54:18] [Server thread/INFO]: [STDOUT]: Loaded container: paladins:netherite_great_hammer
+[01:54:18] [Server thread/INFO]: [STDOUT]: Loaded container: archers:netherite_heavy_crossbow
+[01:54:18] [Server thread/INFO]: [STDOUT]: Loaded container: paladins:netherite_holy_staff
+[01:54:18] [Server thread/INFO]: [STDOUT]: Loaded container: paladins:netherite_holy_wand
+[01:54:18] [Server thread/INFO]: [STDOUT]: Loaded container: archers:netherite_longbow
+[01:54:18] [Server thread/INFO]: [STDOUT]: Loaded container: paladins:netherite_mace
+[01:54:18] [Server thread/INFO]: [STDOUT]: Loaded container: rogues:netherite_sickle
+[01:54:18] [Server thread/INFO]: [STDOUT]: Loaded container: archers:netherite_spear
+[01:54:18] [Server thread/INFO]: [STDOUT]: Loaded container: minecraft:netherite_sword
+[01:54:18] [Server thread/INFO]: [STDOUT]: Loaded container: witcher_rpg:netherite_witcher_sword
+[01:54:18] [Server thread/INFO]: [STDOUT]: Loaded container: minecells:nutcracker
+[01:54:18] [Server thread/INFO]: [STDOUT]: Loaded container: bettercombat:pickaxe
+[01:54:18] [Server thread/INFO]: [STDOUT]: Loaded container: bettercombat:rapier
+[01:54:18] [Server thread/INFO]: [STDOUT]: Loaded container: witcher_rpg:reach_of_the_damned_sword
+[01:54:18] [Server thread/INFO]: [STDOUT]: Loaded container: archers:royal_longbow
+[01:54:18] [Server thread/INFO]: [STDOUT]: Loaded container: berserker_rpg:ruby_berserker_axe
+[01:54:18] [Server thread/INFO]: [STDOUT]: Loaded container: paladins:ruby_claymore
+[01:54:18] [Server thread/INFO]: [STDOUT]: Loaded container: rogues:ruby_dagger
+[01:54:18] [Server thread/INFO]: [STDOUT]: Loaded container: rogues:ruby_double_axe
+[01:54:18] [Server thread/INFO]: [STDOUT]: Loaded container: rogues:ruby_glaive
+[01:54:18] [Server thread/INFO]: [STDOUT]: Loaded container: archers:ruby_heavy_crossbow
+[01:54:18] [Server thread/INFO]: [STDOUT]: Loaded container: paladins:ruby_holy_staff
+[01:54:18] [Server thread/INFO]: [STDOUT]: Loaded container: rogues:ruby_sickle
+[01:54:18] [Server thread/INFO]: [STDOUT]: Loaded container: archers:ruby_spear
+[01:54:18] [Server thread/INFO]: [STDOUT]: Loaded container: witcher_rpg:ruby_witcher_sword
+[01:54:18] [Server thread/INFO]: [STDOUT]: Loaded container: bettercombat:scythe
+[01:54:18] [Server thread/INFO]: [STDOUT]: Loaded container: bettercombat:sickle
+[01:54:18] [Server thread/INFO]: [STDOUT]: Loaded container: witcher_rpg:silver_witcher_sword
+[01:54:18] [Server thread/INFO]: [STDOUT]: Loaded container: bettercombat:soul_knife
+[01:54:18] [Server thread/INFO]: [STDOUT]: Loaded container: bettercombat:spear
+[01:54:18] [Server thread/INFO]: [STDOUT]: Loaded container: bettercombat:staff
+[01:54:18] [Server thread/INFO]: [STDOUT]: Loaded container: elemental_wizards_rpg:staff_aeternium_wind
+[01:54:18] [Server thread/INFO]: [STDOUT]: Loaded container: elemental_wizards_rpg:staff_aether
+[01:54:18] [Server thread/INFO]: [STDOUT]: Loaded container: elemental_wizards_rpg:staff_aqua
+[01:54:18] [Server thread/INFO]: [STDOUT]: Loaded container: wizards:staff_arcane
+[01:54:18] [Server thread/INFO]: [STDOUT]: Loaded container: elemental_wizards_rpg:staff_crystal_aqua
+[01:54:18] [Server thread/INFO]: [STDOUT]: Loaded container: wizards:staff_crystal_arcane
+[01:54:18] [Server thread/INFO]: [STDOUT]: Loaded container: elemental_wizards_rpg:staff_elemental
+[01:54:18] [Server thread/INFO]: [STDOUT]: Loaded container: wizards:staff_fire
+[01:54:18] [Server thread/INFO]: [STDOUT]: Loaded container: wizards:staff_frost
+[01:54:18] [Server thread/INFO]: [STDOUT]: Loaded container: elemental_wizards_rpg:staff_netherite_aqua
+[01:54:18] [Server thread/INFO]: [STDOUT]: Loaded container: wizards:staff_netherite_arcane
+[01:54:18] [Server thread/INFO]: [STDOUT]: Loaded container: wizards:staff_netherite_fire
+[01:54:18] [Server thread/INFO]: [STDOUT]: Loaded container: wizards:staff_netherite_frost
+[01:54:18] [Server thread/INFO]: [STDOUT]: Loaded container: elemental_wizards_rpg:staff_netherite_terra
+[01:54:18] [Server thread/INFO]: [STDOUT]: Loaded container: elemental_wizards_rpg:staff_netherite_wind
+[01:54:18] [Server thread/INFO]: [STDOUT]: Loaded container: wizards:staff_ruby_fire
+[01:54:18] [Server thread/INFO]: [STDOUT]: Loaded container: elemental_wizards_rpg:staff_ruby_terra
+[01:54:18] [Server thread/INFO]: [STDOUT]: Loaded container: wizards:staff_smaragdant_frost
+[01:54:18] [Server thread/INFO]: [STDOUT]: Loaded container: elemental_wizards_rpg:staff_terra
+[01:54:18] [Server thread/INFO]: [STDOUT]: Loaded container: elemental_wizards_rpg:staff_wind
+[01:54:18] [Server thread/INFO]: [STDOUT]: Loaded container: wizards:staff_wizard
+[01:54:18] [Server thread/INFO]: [STDOUT]: Loaded container: witcher_rpg:steel_witcher_sword
+[01:54:18] [Server thread/INFO]: [STDOUT]: Loaded container: berserker_rpg:stone_berserker_axe
+[01:54:18] [Server thread/INFO]: [STDOUT]: Loaded container: paladins:stone_claymore
+[01:54:18] [Server thread/INFO]: [STDOUT]: Loaded container: rogues:stone_double_axe
+[01:54:18] [Server thread/INFO]: [STDOUT]: Loaded container: paladins:stone_great_hammer
+[01:54:18] [Server thread/INFO]: [STDOUT]: Loaded container: paladins:stone_mace
+[01:54:18] [Server thread/INFO]: [STDOUT]: Loaded container: minecraft:stone_sword
+[01:54:18] [Server thread/INFO]: [STDOUT]: Loaded container: bettercombat:sword
+[01:54:18] [Server thread/INFO]: [STDOUT]: Loaded container: minecells:tentacle
+[01:54:18] [Server thread/INFO]: [STDOUT]: Loaded container: bettercombat:trident
+[01:54:18] [Server thread/INFO]: [STDOUT]: Loaded container: minecraft:trident
+[01:54:18] [Server thread/INFO]: [STDOUT]: Loaded container: bettercombat:twin_blade
+[01:54:18] [Server thread/INFO]: [STDOUT]: Loaded container: witcher_rpg:ultimatum_sword
+[01:54:18] [Server thread/INFO]: [STDOUT]: Loaded container: berserker_rpg:unique_berserker_axe_1
+[01:54:18] [Server thread/INFO]: [STDOUT]: Loaded container: arsenal:unique_claymore_1
+[01:54:18] [Server thread/INFO]: [STDOUT]: Loaded container: arsenal:unique_claymore_2
+[01:54:18] [Server thread/INFO]: [STDOUT]: Loaded container: arsenal:unique_claymore_sw
+[01:54:18] [Server thread/INFO]: [STDOUT]: Loaded container: arsenal:unique_dagger_1
+[01:54:18] [Server thread/INFO]: [STDOUT]: Loaded container: arsenal:unique_dagger_2
+[01:54:18] [Server thread/INFO]: [STDOUT]: Loaded container: arsenal:unique_dagger_sw
+[01:54:18] [Server thread/INFO]: [STDOUT]: Loaded container: arsenal:unique_double_axe_1
+[01:54:18] [Server thread/INFO]: [STDOUT]: Loaded container: arsenal:unique_double_axe_2
+[01:54:18] [Server thread/INFO]: [STDOUT]: Loaded container: arsenal:unique_double_axe_sw
+[01:54:18] [Server thread/INFO]: [STDOUT]: Loaded container: arsenal:unique_glaive_1
+[01:54:18] [Server thread/INFO]: [STDOUT]: Loaded container: arsenal:unique_glaive_2
+[01:54:18] [Server thread/INFO]: [STDOUT]: Loaded container: arsenal:unique_glaive_sw
+[01:54:18] [Server thread/INFO]: [STDOUT]: Loaded container: arsenal:unique_hammer_1
+[01:54:18] [Server thread/INFO]: [STDOUT]: Loaded container: arsenal:unique_hammer_2
+[01:54:18] [Server thread/INFO]: [STDOUT]: Loaded container: arsenal:unique_hammer_sw
+[01:54:18] [Server thread/INFO]: [STDOUT]: Loaded container: arsenal:unique_heavy_crossbow_1
+[01:54:18] [Server thread/INFO]: [STDOUT]: Loaded container: arsenal:unique_heavy_crossbow_2
+[01:54:18] [Server thread/INFO]: [STDOUT]: Loaded container: arsenal:unique_heavy_crossbow_sw
+[01:54:18] [Server thread/INFO]: [STDOUT]: Loaded container: arsenal:unique_longbow_1
+[01:54:18] [Server thread/INFO]: [STDOUT]: Loaded container: arsenal:unique_longbow_2
+[01:54:18] [Server thread/INFO]: [STDOUT]: Loaded container: arsenal:unique_longbow_sw
+[01:54:18] [Server thread/INFO]: [STDOUT]: Loaded container: arsenal:unique_longsword_sw
+[01:54:18] [Server thread/INFO]: [STDOUT]: Loaded container: arsenal:unique_mace_1
+[01:54:18] [Server thread/INFO]: [STDOUT]: Loaded container: arsenal:unique_mace_2
+[01:54:18] [Server thread/INFO]: [STDOUT]: Loaded container: arsenal:unique_mace_sw
+[01:54:18] [Server thread/INFO]: [STDOUT]: Loaded container: arsenal:unique_sickle_1
+[01:54:18] [Server thread/INFO]: [STDOUT]: Loaded container: arsenal:unique_sickle_2
+[01:54:18] [Server thread/INFO]: [STDOUT]: Loaded container: arsenal:unique_sickle_sw
+[01:54:18] [Server thread/INFO]: [STDOUT]: Loaded container: arsenal:unique_spear_1
+[01:54:18] [Server thread/INFO]: [STDOUT]: Loaded container: arsenal:unique_spear_2
+[01:54:18] [Server thread/INFO]: [STDOUT]: Loaded container: arsenal:unique_spear_sw
+[01:54:18] [Server thread/INFO]: [STDOUT]: Loaded container: elemental_wizards_rpg:unique_staff_1
+[01:54:18] [Server thread/INFO]: [STDOUT]: Loaded container: arsenal:unique_staff_damage_1
+[01:54:18] [Server thread/INFO]: [STDOUT]: Loaded container: arsenal:unique_staff_damage_2
+[01:54:18] [Server thread/INFO]: [STDOUT]: Loaded container: arsenal:unique_staff_damage_3
+[01:54:18] [Server thread/INFO]: [STDOUT]: Loaded container: arsenal:unique_staff_damage_4
+[01:54:18] [Server thread/INFO]: [STDOUT]: Loaded container: arsenal:unique_staff_damage_5
+[01:54:18] [Server thread/INFO]: [STDOUT]: Loaded container: arsenal:unique_staff_damage_6
+[01:54:18] [Server thread/INFO]: [STDOUT]: Loaded container: arsenal:unique_staff_damage_sw
+[01:54:18] [Server thread/INFO]: [STDOUT]: Loaded container: arsenal:unique_staff_heal_1
+[01:54:18] [Server thread/INFO]: [STDOUT]: Loaded container: arsenal:unique_staff_heal_2
+[01:54:18] [Server thread/INFO]: [STDOUT]: Loaded container: arsenal:unique_staff_heal_sw
+[01:54:18] [Server thread/INFO]: [STDOUT]: Loaded container: bettercombat:vanilla_mace
+[01:54:18] [Server thread/INFO]: [STDOUT]: Loaded container: bettercombat:wand
+[01:54:18] [Server thread/INFO]: [STDOUT]: Loaded container: elemental_wizards_rpg:wand_aqua
+[01:54:18] [Server thread/INFO]: [STDOUT]: Loaded container: wizards:wand_arcane
+[01:54:18] [Server thread/INFO]: [STDOUT]: Loaded container: elemental_wizards_rpg:wand_clay
+[01:54:18] [Server thread/INFO]: [STDOUT]: Loaded container: elemental_wizards_rpg:wand_feather
+[01:54:18] [Server thread/INFO]: [STDOUT]: Loaded container: wizards:wand_fire
+[01:54:18] [Server thread/INFO]: [STDOUT]: Loaded container: wizards:wand_frost
+[01:54:18] [Server thread/INFO]: [STDOUT]: Loaded container: elemental_wizards_rpg:wand_kelp
+[01:54:18] [Server thread/INFO]: [STDOUT]: Loaded container: elemental_wizards_rpg:wand_netherite_aqua
+[01:54:18] [Server thread/INFO]: [STDOUT]: Loaded container: wizards:wand_netherite_arcane
+[01:54:18] [Server thread/INFO]: [STDOUT]: Loaded container: wizards:wand_netherite_fire
+[01:54:18] [Server thread/INFO]: [STDOUT]: Loaded container: wizards:wand_netherite_frost
+[01:54:18] [Server thread/INFO]: [STDOUT]: Loaded container: elemental_wizards_rpg:wand_netherite_terra
+[01:54:18] [Server thread/INFO]: [STDOUT]: Loaded container: elemental_wizards_rpg:wand_netherite_wind
+[01:54:18] [Server thread/INFO]: [STDOUT]: Loaded container: wizards:wand_novice
+[01:54:18] [Server thread/INFO]: [STDOUT]: Loaded container: elemental_wizards_rpg:wand_terra
+[01:54:18] [Server thread/INFO]: [STDOUT]: Loaded container: elemental_wizards_rpg:wand_wind
+[01:54:18] [Server thread/INFO]: [STDOUT]: Loaded container: witcher_rpg:winters_blade_sword
+[01:54:18] [Server thread/INFO]: [STDOUT]: Loaded container: witcher_rpg:witcher_sword_attack
+[01:54:18] [Server thread/INFO]: [STDOUT]: Loaded container: berserker_rpg:wither_berserker_axe
+[01:54:18] [Server thread/INFO]: [STDOUT]: Loaded container: lne_paladins:wither_claymore
+[01:54:18] [Server thread/INFO]: [STDOUT]: Loaded container: lne_rogues:wither_dagger
+[01:54:18] [Server thread/INFO]: [STDOUT]: Loaded container: lne_rogues:wither_double_axe
+[01:54:18] [Server thread/INFO]: [STDOUT]: Loaded container: lne_rogues:wither_glaive
+[01:54:18] [Server thread/INFO]: [STDOUT]: Loaded container: lne_archers:wither_heavy_crossbow
+[01:54:18] [Server thread/INFO]: [STDOUT]: Loaded container: lne_archers:wither_long_bow
+[01:54:18] [Server thread/INFO]: [STDOUT]: Loaded container: lne_rogues:wither_sickle
+[01:54:18] [Server thread/INFO]: [STDOUT]: Loaded container: lne_archers:wither_spear
+[01:54:18] [Server thread/INFO]: [STDOUT]: Loaded container: lne_wizards:wither_staff_fire
+[01:54:18] [Server thread/INFO]: [STDOUT]: Loaded container: lne_wizards:wither_staff_terra
+[01:54:18] [Server thread/INFO]: [STDOUT]: Loaded container: paladins:wooden_great_hammer
+[01:54:18] [Server thread/INFO]: [STDOUT]: Loaded container: minecraft:wooden_sword
+[01:54:18] [Server thread/INFO]: Encoded Weapon Attribute registry size (with package overhead): 14817 bytes (in 2 string chunks with the size of 10000)
+[01:54:18] [Server thread/INFO]: [puffish_skills] Mod configuration loaded successfully!
+[01:54:18] [Server thread/INFO]: [puffish_skills] Data pack `skill_tree_rpgs` loaded successfully!
+[01:54:18] [Server thread/INFO]: [STDOUT]: Encoded SpellRegistry size (with package overhead): ??? bytes (in 4 string chunks with the size of 10000)
+[01:54:18] [Server thread/INFO]: Starting minecraft server version 1.21.1
+[01:54:18] [Server thread/INFO]: Loading properties
+[01:54:18] [Server thread/INFO]: Default game type: SURVIVAL
+[01:54:18] [Server thread/INFO]: Generating keypair
+[01:54:18] [Server thread/INFO]: Starting Minecraft server on *:25565
+[01:54:19] [Server thread/INFO]: Using epoll channel type
+[01:54:19] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[01:54:19] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[01:54:19] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[01:54:19] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[01:54:19] [Server thread/INFO]: Preparing level "world"
+[01:54:27] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[01:54:28] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[01:54:28] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[01:54:28] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[01:54:28] [Server thread/INFO]: Time elapsed: 1268 ms
+[01:54:28] [Server thread/INFO]: Done (9.758s)! For help, type "help"
+[01:54:28] [Server thread/INFO]: Loaded config for: smoothchunk.json
+[01:54:28] [Server thread/INFO]: Registered thread Server thread
+[01:54:28] [Server thread/INFO]: Start loading plugin from Balm: net.blay09.mods.balm.fabric.compat.hudinfo.FabricJadeModCompat
+[01:54:28] [Server thread/INFO]: Start loading plugin from Global XP: bl4ckscor3.mod.globalxp.compat.JadeDataProvider
+[01:54:28] [Server thread/INFO]: Start loading plugin from Jade: snownee.jade.addon.core.CorePlugin
+[01:54:28] [Server thread/INFO]: Start loading plugin from Jade: snownee.jade.addon.vanilla.VanillaPlugin
+[01:54:28] [Server thread/INFO]: Start loading plugin from Jade: snownee.jade.addon.universal.UniversalPlugin
+[01:54:28] [Server thread/INFO]: Start loading plugin from Jade: snownee.jade.addon.access.AccessibilityPlugin
+[01:54:28] [Server thread/INFO]: Start loading plugin from Jade: snownee.jade.addon.debug.DebugPlugin
+[01:54:28] [Server thread/INFO]: Start loading plugin from Polymer (Core): eu.pb4.polymer.core.impl.client.compat.JadeCompatibility
+[01:54:28] [Server thread/INFO]: Start loading plugin from Waystones: net.blay09.mods.waystones.compat.JadeIntegration
+[01:54:28] [Server thread/INFO]: Changing maximum value for minecraft:generic.armor from 30.0 to 1000000.0.
+[01:54:28] [Server thread/INFO]: Changing maximum value for minecraft:generic.armor_toughness from 20.0 to 1000000.0.
+[01:54:28] [Server thread/INFO]: Changing maximum value for minecraft:generic.attack_damage from 2048.0 to 1000000.0.
+[01:54:29] [Server thread/INFO]: Changing maximum value for minecraft:generic.attack_knockback from 5.0 to 1000000.0.
+[01:54:29] [Server thread/INFO]: Changing maximum value for minecraft:generic.max_health from 1024.0 to 1000000.0.
+[01:54:29] [Server thread/INFO]: Loading data for 197 chunks for filePath './world/chunk_activity_info/overworld.dat' took 7 milliseconds
+[01:54:29] [Server thread/INFO]: Saving data for 197 chunks for dimension 'overworld' took 4 milliseconds
+[01:55:08] [Server thread/INFO]: Byakko4146[/10.242.222.233:59600] logged in with entity id 24 at (625.4099819393897, 79.0, 287.4739082110119)
+[01:55:08] [Server thread/INFO]: Sending server config values to client
+[01:55:09] [Server thread/INFO]: Loading config from file...
+[01:55:09] [Server thread/INFO]: Byakko4146 joined the game
+[01:55:10] [Server thread/INFO]: Priority overwritten for player Byakko4146. Claiming: GRAVE / Robbing: INVENTORY
+[01:55:10] [Server thread/INFO]: Receiving client config
+[01:55:18] [Worker-Main-1/WARN]: Couldn't find template pool reference: minecraft:
+[01:55:18] [Worker-Main-1/WARN]: Couldn't find template pool reference: minecraft:
+[01:55:18] [Worker-Main-1/WARN]: Couldn't find template pool reference: minecraft:
+[01:55:18] [Worker-Main-1/WARN]: Couldn't find template pool reference: minecraft:
+[01:55:18] [Worker-Main-1/WARN]: Couldn't find template pool reference: minecraft:
+[01:55:18] [Worker-Main-1/WARN]: Couldn't find template pool reference: minecraft:
+[01:55:18] [Worker-Main-1/WARN]: Couldn't find template pool reference: minecraft:
+[01:55:18] [Worker-Main-1/WARN]: Couldn't find template pool reference: minecraft:
+[01:55:18] [Worker-Main-1/WARN]: Couldn't find template pool reference: minecraft:
+[01:55:18] [Worker-Main-1/WARN]: Couldn't find template pool reference: minecraft:
+[01:55:18] [Worker-Main-1/WARN]: Couldn't find template pool reference: minecraft:
+[01:55:18] [Worker-Main-1/WARN]: Couldn't find template pool reference: minecraft:
+[01:55:18] [Worker-Main-1/WARN]: Couldn't find template pool reference: minecraft:
+[01:55:18] [Worker-Main-1/WARN]: Couldn't find template pool reference: minecraft:
+[01:55:18] [Worker-Main-1/WARN]: Couldn't find template pool reference: minecraft:
+[01:55:18] [Worker-Main-1/WARN]: Couldn't find template pool reference: minecraft:
+[01:55:18] [Worker-Main-1/WARN]: Couldn't find template pool reference: minecraft:
+[01:55:18] [Worker-Main-1/WARN]: Couldn't find template pool reference: minecraft:
+[01:55:18] [Worker-Main-1/WARN]: Couldn't find template pool reference: minecraft:
+[01:55:18] [Worker-Main-1/WARN]: Couldn't find template pool reference: minecraft:
+[01:55:18] [Worker-Main-1/WARN]: Couldn't find template pool reference: minecraft:
+[01:55:18] [Worker-Main-1/WARN]: Couldn't find template pool reference: minecraft:
+[01:55:18] [Worker-Main-1/WARN]: Couldn't find template pool reference: minecraft:
+[01:55:18] [Worker-Main-1/WARN]: Couldn't find template pool reference: minecraft:
+[01:55:18] [Worker-Main-1/WARN]: Couldn't find template pool reference: minecraft:
+[01:55:18] [Worker-Main-1/WARN]: Couldn't find template pool reference: minecraft:
+[01:55:18] [Worker-Main-1/WARN]: Couldn't find template pool reference: minecraft:
+[01:55:18] [Worker-Main-1/WARN]: Couldn't find template pool reference: minecraft:
+[01:55:18] [Worker-Main-1/WARN]: Couldn't find template pool reference: minecraft:
+[01:55:18] [Worker-Main-1/WARN]: Couldn't find template pool reference: minecraft:
+[01:55:18] [Worker-Main-1/WARN]: Couldn't find template pool reference: minecraft:
+[01:55:18] [Worker-Main-1/WARN]: Couldn't find template pool reference: minecraft:
+[01:55:18] [Worker-Main-1/WARN]: Couldn't find template pool reference: minecraft:
+[01:55:18] [Worker-Main-1/WARN]: Couldn't find template pool reference: minecraft:
+[01:55:18] [Worker-Main-1/WARN]: Couldn't find template pool reference: minecraft:
+[01:55:18] [Worker-Main-1/WARN]: Couldn't find template pool reference: minecraft:
+[01:55:18] [Worker-Main-1/WARN]: Couldn't find template pool reference: minecraft:
+[01:55:18] [Worker-Main-1/WARN]: Couldn't find template pool reference: minecraft:
+[01:55:18] [Worker-Main-1/WARN]: Couldn't find template pool reference: minecraft:
+[01:55:18] [Worker-Main-1/WARN]: Couldn't find template pool reference: minecraft:
+[01:55:18] [Worker-Main-1/WARN]: Couldn't find template pool reference: minecraft:
+[01:55:18] [Worker-Main-1/WARN]: Couldn't find template pool reference: minecraft:
+[01:55:18] [Worker-Main-1/WARN]: Couldn't find template pool reference: minecraft:
+[01:55:18] [Worker-Main-1/WARN]: Couldn't find template pool reference: minecraft:
+[01:55:18] [Worker-Main-1/WARN]: Couldn't find template pool reference: minecraft:
+[01:55:18] [Worker-Main-1/WARN]: Couldn't find template pool reference: minecraft:
+[01:55:18] [Worker-Main-1/WARN]: Couldn't find template pool reference: minecraft:
+[01:55:18] [Worker-Main-1/WARN]: Couldn't find template pool reference: minecraft:
+[01:55:18] [Worker-Main-1/WARN]: Couldn't find template pool reference: minecraft:
+[01:55:18] [Worker-Main-1/WARN]: Couldn't find template pool reference: minecraft:
+[01:55:18] [Worker-Main-1/WARN]: Couldn't find template pool reference: minecraft:
+[01:55:18] [Worker-Main-1/WARN]: Couldn't find template pool reference: minecraft:
+[01:55:18] [Worker-Main-1/WARN]: Couldn't find template pool reference: minecraft:
+[01:55:18] [Worker-Main-1/WARN]: Couldn't find template pool reference: minecraft:
+[01:55:18] [Worker-Main-1/WARN]: Couldn't find template pool reference: minecraft:
+[01:55:18] [Worker-Main-1/WARN]: Couldn't find template pool reference: minecraft:
+[01:55:18] [Worker-Main-1/WARN]: Couldn't find template pool reference: minecraft:
+[01:55:18] [Worker-Main-1/WARN]: Couldn't find template pool reference: minecraft:
+[01:55:18] [Worker-Main-1/WARN]: Couldn't find template pool reference: minecraft:
+[01:55:18] [Worker-Main-1/WARN]: Couldn't find template pool reference: minecraft:
+[01:55:18] [Worker-Main-1/WARN]: Couldn't find template pool reference: minecraft:
+[01:55:18] [Worker-Main-1/WARN]: Couldn't find template pool reference: minecraft:
+[01:55:18] [Worker-Main-1/WARN]: Couldn't find template pool reference: minecraft:
+[01:55:18] [Worker-Main-1/WARN]: Couldn't find template pool reference: minecraft:
+[01:55:18] [Worker-Main-1/WARN]: Couldn't find template pool reference: minecraft:
+[01:55:18] [Worker-Main-1/WARN]: Couldn't find template pool reference: minecraft:
+[01:55:18] [Worker-Main-1/WARN]: Couldn't find template pool reference: minecraft:
+[01:55:18] [Worker-Main-1/WARN]: Couldn't find template pool reference: minecraft:
+[01:55:18] [Worker-Main-1/WARN]: Couldn't find template pool reference: minecraft:
+[01:55:18] [Worker-Main-1/WARN]: Couldn't find template pool reference: minecraft:
+[01:55:18] [Worker-Main-1/WARN]: Couldn't find template pool reference: minecraft:
+[01:55:18] [Worker-Main-1/WARN]: Couldn't find template pool reference: minecraft:
+[01:55:18] [Worker-Main-1/WARN]: Couldn't find template pool reference: minecraft:
+[01:55:18] [Worker-Main-1/WARN]: Couldn't find template pool reference: minecraft:
+[01:55:18] [Worker-Main-1/WARN]: Couldn't find template pool reference: minecraft:
+[01:55:18] [Worker-Main-1/WARN]: Couldn't find template pool reference: minecraft:
+[01:55:18] [Worker-Main-1/WARN]: Couldn't find template pool reference: minecraft:
+[01:55:18] [Worker-Main-1/WARN]: Couldn't find template pool reference: minecraft:
+[01:55:18] [Worker-Main-1/WARN]: Couldn't find template pool reference: minecraft:
+[01:55:18] [Worker-Main-1/WARN]: Couldn't find template pool reference: minecraft:
+[01:55:18] [Worker-Main-1/WARN]: Couldn't find template pool reference: minecraft:
+[01:55:18] [Worker-Main-1/WARN]: Couldn't find template pool reference: minecraft:
+[01:55:18] [Worker-Main-1/WARN]: Couldn't find template pool reference: minecraft:
+[01:55:18] [Worker-Main-1/WARN]: Couldn't find template pool reference: minecraft:
+[01:55:18] [Worker-Main-1/WARN]: Couldn't find template pool reference: minecraft:
+[01:55:18] [Worker-Main-1/WARN]: Couldn't find template pool reference: minecraft:
+[01:55:18] [Worker-Main-1/WARN]: Couldn't find template pool reference: minecraft:
+[01:55:18] [Worker-Main-1/WARN]: Couldn't find template pool reference: minecraft:
+[01:55:18] [Worker-Main-1/WARN]: Couldn't find template pool reference: minecraft:
+[01:55:18] [Worker-Main-1/WARN]: Couldn't find template pool reference: minecraft:
+[01:55:18] [Worker-Main-1/WARN]: Couldn't find template pool reference: minecraft:
+[01:55:18] [Worker-Main-1/WARN]: Couldn't find template pool reference: minecraft:
+[01:55:18] [Worker-Main-1/WARN]: Couldn't find template pool reference: minecraft:
+[01:55:18] [Worker-Main-1/WARN]: Couldn't find template pool reference: minecraft:
+[01:55:18] [Worker-Main-1/WARN]: Couldn't find template pool reference: minecraft:
+[01:55:18] [Worker-Main-1/WARN]: Couldn't find template pool reference: minecraft:
+[01:55:18] [Worker-Main-1/WARN]: Couldn't find template pool reference: minecraft:
+[01:55:18] [Worker-Main-1/WARN]: Couldn't find template pool reference: minecraft:
+[01:55:18] [Worker-Main-1/WARN]: Couldn't find template pool reference: minecraft:
+[01:55:18] [Worker-Main-1/WARN]: Couldn't find template pool reference: minecraft:
+[01:55:18] [Worker-Main-1/WARN]: Couldn't find template pool reference: minecraft:
+[01:55:18] [Worker-Main-1/WARN]: Couldn't find template pool reference: minecraft:
+[01:55:18] [Worker-Main-1/WARN]: Couldn't find template pool reference: minecraft:
+[01:55:18] [Worker-Main-1/WARN]: Couldn't find template pool reference: minecraft:
+[01:55:18] [Worker-Main-1/WARN]: Couldn't find template pool reference: minecraft:
+[01:55:18] [Worker-Main-1/WARN]: Couldn't find template pool reference: minecraft:
+[01:55:18] [Worker-Main-1/WARN]: Couldn't find template pool reference: minecraft:
+[01:55:18] [Worker-Main-1/WARN]: Couldn't find template pool reference: minecraft:
+[01:55:18] [Worker-Main-1/WARN]: Couldn't find template pool reference: minecraft:
+[01:55:18] [Worker-Main-1/WARN]: Couldn't find template pool reference: minecraft:
+[01:55:18] [Worker-Main-1/WARN]: Couldn't find template pool reference: minecraft:
+[01:55:18] [Worker-Main-1/WARN]: Couldn't find template pool reference: minecraft:
+[01:55:18] [Worker-Main-1/WARN]: Couldn't find template pool reference: minecraft:
+[01:55:18] [Worker-Main-1/WARN]: Couldn't find template pool reference: minecraft:
+[01:55:18] [Worker-Main-1/WARN]: Couldn't find template pool reference: minecraft:
+[01:55:18] [Worker-Main-1/WARN]: Couldn't find template pool reference: minecraft:
+[01:55:18] [Worker-Main-1/WARN]: Couldn't find template pool reference: minecraft:
+[01:55:18] [Worker-Main-1/WARN]: Couldn't find template pool reference: minecraft:
+[01:55:18] [Worker-Main-1/WARN]: Couldn't find template pool reference: minecraft:
+[01:55:18] [Worker-Main-1/WARN]: Couldn't find template pool reference: minecraft:
+[01:55:18] [Worker-Main-1/WARN]: Couldn't find template pool reference: minecraft:
+[01:55:18] [Worker-Main-1/WARN]: Couldn't find template pool reference: minecraft:
+[01:55:18] [Worker-Main-1/WARN]: Couldn't find template pool reference: minecraft:
+[01:55:18] [Worker-Main-1/WARN]: Couldn't find template pool reference: minecraft:
+[01:55:18] [Worker-Main-1/WARN]: Couldn't find template pool reference: minecraft:
+[01:55:18] [Worker-Main-1/WARN]: Couldn't find template pool reference: minecraft:
+[01:55:18] [Worker-Main-1/WARN]: Couldn't find template pool reference: minecraft:
+[01:55:18] [Worker-Main-1/WARN]: Couldn't find template pool reference: minecraft:
+[01:55:18] [Worker-Main-1/WARN]: Couldn't find template pool reference: minecraft:
+[01:55:18] [Worker-Main-1/WARN]: Couldn't find template pool reference: minecraft:
+[01:55:18] [Worker-Main-1/WARN]: Couldn't find template pool reference: minecraft:
+[01:55:18] [Worker-Main-1/WARN]: Couldn't find template pool reference: minecraft:
+[01:55:18] [Worker-Main-1/WARN]: Couldn't find template pool reference: minecraft:
+[01:55:18] [Worker-Main-1/WARN]: Couldn't find template pool reference: minecraft:
+[01:55:18] [Worker-Main-1/WARN]: Couldn't find template pool reference: minecraft:
+[01:55:18] [Worker-Main-1/WARN]: Couldn't find template pool reference: minecraft:
+[01:55:18] [Worker-Main-1/WARN]: Couldn't find template pool reference: minecraft:
+[01:55:18] [Worker-Main-1/WARN]: Couldn't find template pool reference: minecraft:
+[01:55:18] [Worker-Main-1/WARN]: Couldn't find template pool reference: minecraft:
+[01:55:18] [Worker-Main-1/WARN]: Couldn't find template pool reference: minecraft:
+[01:55:18] [Worker-Main-1/WARN]: Couldn't find template pool reference: minecraft:
+[01:55:18] [Worker-Main-1/WARN]: Couldn't find template pool reference: minecraft:
+[01:55:18] [Worker-Main-1/WARN]: Couldn't find template pool reference: minecraft:
+[01:55:18] [Worker-Main-1/WARN]: Couldn't find template pool reference: minecraft:
+[01:55:18] [Worker-Main-1/WARN]: Couldn't find template pool reference: minecraft:
+[01:55:18] [Worker-Main-1/WARN]: Couldn't find template pool reference: minecraft:
+[01:55:18] [Worker-Main-1/WARN]: Couldn't find template pool reference: minecraft:
+[01:55:18] [Worker-Main-1/WARN]: Couldn't find template pool reference: minecraft:
+[01:55:18] [Worker-Main-1/WARN]: Couldn't find template pool reference: minecraft:
+[01:55:18] [Worker-Main-1/WARN]: Couldn't find template pool reference: minecraft:
+[01:55:18] [Worker-Main-1/WARN]: Couldn't find template pool reference: minecraft:
+[01:55:18] [Worker-Main-1/WARN]: Couldn't find template pool reference: minecraft:
+[01:55:18] [Worker-Main-1/WARN]: Couldn't find template pool reference: minecraft:
+[01:55:18] [Worker-Main-1/WARN]: Couldn't find template pool reference: minecraft:
+[01:55:18] [Worker-Main-1/WARN]: Couldn't find template pool reference: minecraft:
+[01:55:18] [Worker-Main-1/WARN]: Couldn't find template pool reference: minecraft:
+[01:55:18] [Worker-Main-1/WARN]: Couldn't find template pool reference: minecraft:
+[01:55:18] [Worker-Main-1/WARN]: Couldn't find template pool reference: minecraft:
+[01:55:18] [Worker-Main-1/WARN]: Couldn't find template pool reference: minecraft:
+[01:55:18] [Worker-Main-1/WARN]: Couldn't find template pool reference: minecraft:
+[01:55:18] [Worker-Main-1/WARN]: Couldn't find template pool reference: minecraft:
+[01:55:18] [Worker-Main-1/WARN]: Couldn't find template pool reference: minecraft:
+[01:55:18] [Worker-Main-1/WARN]: Couldn't find template pool reference: minecraft:
+[01:55:18] [Worker-Main-1/WARN]: Couldn't find template pool reference: minecraft:
+[01:55:18] [Worker-Main-1/WARN]: Couldn't find template pool reference: minecraft:
+[01:55:18] [Worker-Main-1/WARN]: Couldn't find template pool reference: minecraft:
+[01:55:18] [Worker-Main-1/WARN]: Couldn't find template pool reference: minecraft:
+[01:55:18] [Worker-Main-1/WARN]: Couldn't find template pool reference: minecraft:
+[01:55:18] [Worker-Main-1/WARN]: Couldn't find template pool reference: minecraft:
+[01:55:18] [Worker-Main-1/WARN]: Couldn't find template pool reference: minecraft:
+[01:55:18] [Worker-Main-1/WARN]: Couldn't find template pool reference: minecraft:
+[01:55:18] [Worker-Main-1/WARN]: Couldn't find template pool reference: minecraft:
+[01:55:18] [Worker-Main-1/WARN]: Couldn't find template pool reference: minecraft:
+[01:55:18] [Worker-Main-1/WARN]: Couldn't find template pool reference: minecraft:
+[01:55:18] [Worker-Main-1/WARN]: Couldn't find template pool reference: minecraft:
+[01:55:18] [Worker-Main-1/WARN]: Couldn't find template pool reference: minecraft:
+[01:55:18] [Worker-Main-1/WARN]: Couldn't find template pool reference: minecraft:
+[01:55:18] [Worker-Main-1/WARN]: Couldn't find template pool reference: minecraft:
+[01:55:18] [Worker-Main-1/WARN]: Couldn't find template pool reference: minecraft:
+[01:55:18] [Worker-Main-1/WARN]: Couldn't find template pool reference: minecraft:
+[01:55:18] [Worker-Main-1/WARN]: Couldn't find template pool reference: minecraft:
+[01:55:18] [Worker-Main-1/WARN]: Couldn't find template pool reference: minecraft:
+[01:55:18] [Worker-Main-1/WARN]: Couldn't find template pool reference: minecraft:
+[01:55:18] [Worker-Main-1/WARN]: Couldn't find template pool reference: minecraft:
+[01:55:18] [Worker-Main-1/WARN]: Couldn't find template pool reference: minecraft:
+[01:55:18] [Worker-Main-1/WARN]: Couldn't find template pool reference: minecraft:
+[01:55:18] [Worker-Main-1/WARN]: Couldn't find template pool reference: minecraft:
+[01:55:18] [Worker-Main-1/WARN]: Couldn't find template pool reference: minecraft:
+[01:55:18] [Worker-Main-1/WARN]: Couldn't find template pool reference: minecraft:
+[01:55:18] [Worker-Main-1/WARN]: Couldn't find template pool reference: minecraft:
+[01:55:18] [Worker-Main-1/WARN]: Couldn't find template pool reference: minecraft:
+[01:55:18] [Worker-Main-1/WARN]: Couldn't find template pool reference: minecraft:
+[01:55:18] [Worker-Main-1/WARN]: Couldn't find template pool reference: minecraft:
+[01:55:18] [Worker-Main-1/WARN]: Couldn't find template pool reference: minecraft:
+[01:55:18] [Worker-Main-1/WARN]: Couldn't find template pool reference: minecraft:
+[01:55:18] [Worker-Main-1/WARN]: Couldn't find template pool reference: minecraft:
+[01:55:18] [Worker-Main-1/WARN]: Couldn't find template pool reference: minecraft:
+[01:55:18] [Worker-Main-1/WARN]: Couldn't find template pool reference: minecraft:
+[01:55:18] [Worker-Main-1/WARN]: Couldn't find template pool reference: minecraft:
+[01:55:18] [Worker-Main-1/WARN]: Couldn't find template pool reference: minecraft:
+[01:55:18] [Worker-Main-1/WARN]: Couldn't find template pool reference: minecraft:
+[01:55:18] [Worker-Main-1/WARN]: Couldn't find template pool reference: minecraft:
+[01:55:18] [Worker-Main-1/WARN]: Couldn't find template pool reference: minecraft:
+[01:55:18] [Worker-Main-1/WARN]: Couldn't find template pool reference: minecraft:
+[01:55:18] [Worker-Main-1/WARN]: Couldn't find template pool reference: minecraft:
+[01:55:18] [Worker-Main-1/WARN]: Couldn't find template pool reference: minecraft:
+[01:55:18] [Worker-Main-1/WARN]: Couldn't find template pool reference: minecraft:
+[01:55:18] [Worker-Main-1/WARN]: Couldn't find template pool reference: minecraft:
+[01:55:18] [Worker-Main-1/WARN]: Couldn't find template pool reference: minecraft:
+[01:55:18] [Worker-Main-1/WARN]: Couldn't find template pool reference: minecraft:
+[01:55:20] [Worker-Main-2/INFO]: CREATING AND INIT'ING MASTER CONTROLLER...
+[01:55:21] [Worker-Main-2/WARN]: Empty or non-existent pool: minecraft:minecraft_empty
+[01:55:21] [Worker-Main-2/WARN]: Empty or non-existent pool: minecraft:minecraft_empty
+[01:55:21] [Worker-Main-2/WARN]: Empty or non-existent pool: minecraft:minecraft_empty
+[01:55:21] [Worker-Main-2/WARN]: Empty or non-existent pool: minecraft:minecraft_empty
+[01:59:28] [Server thread/INFO]: Saving data for 210 chunks for dimension 'overworld' took 1 milliseconds
+[02:00:09] [Server thread/INFO]: Byakko4146 has made the advancement [Stone Age]
+[02:00:40] [Worker-Main-1/WARN]: Couldn't find template pool reference: kaisyn:village/exclusives/mediterranean/villager_bishop
+[02:01:57] [Server thread/WARN]: AquiferContext is null in AquiferMixin, this should not happen!
+[02:01:57] [Server thread/WARN]: AquiferContext is null in AquiferMixin, this should not happen!
+[02:01:57] [Server thread/WARN]: AquiferContext is null in AquiferMixin, this should not happen!
+[02:01:57] [Server thread/WARN]: AquiferContext is null in AquiferMixin, this should not happen!
+[02:01:57] [Server thread/WARN]: AquiferContext is null in AquiferMixin, this should not happen!
+[02:01:57] [Server thread/WARN]: AquiferContext is null in AquiferMixin, this should not happen!
+[02:01:57] [Server thread/WARN]: AquiferContext is null in AquiferMixin, this should not happen!
+[02:01:57] [Server thread/WARN]: AquiferContext is null in AquiferMixin, this should not happen!
+[02:01:57] [Server thread/WARN]: AquiferContext is null in AquiferMixin, this should not happen!
+[02:01:57] [Server thread/WARN]: AquiferContext is null in AquiferMixin, this should not happen!
+[02:01:57] [Server thread/WARN]: AquiferContext is null in AquiferMixin, this should not happen!
+[02:01:57] [Server thread/WARN]: AquiferContext is null in AquiferMixin, this should not happen!
+[02:01:57] [Server thread/WARN]: AquiferContext is null in AquiferMixin, this should not happen!
+[02:01:57] [Server thread/WARN]: AquiferContext is null in AquiferMixin, this should not happen!
+[02:01:57] [Server thread/WARN]: AquiferContext is null in AquiferMixin, this should not happen!
+[02:01:57] [Server thread/WARN]: AquiferContext is null in AquiferMixin, this should not happen!
+[02:01:57] [Server thread/WARN]: AquiferContext is null in AquiferMixin, this should not happen!
+[02:01:57] [Server thread/WARN]: AquiferContext is null in AquiferMixin, this should not happen!
+[02:01:57] [Server thread/WARN]: AquiferContext is null in AquiferMixin, this should not happen!
+[02:01:57] [Server thread/WARN]: AquiferContext is null in AquiferMixin, this should not happen!
+[02:01:57] [Server thread/ERROR]: Failed to fetch the AquiferContext. Liquid Regions for YUNG's Better Caves may not generate properly.
+[02:01:57] [Server thread/ERROR]: This is a mod compatibility issue. Please report it to the Better Caves GitHub issue tracker!
+[02:01:57] [Worker-Main-3/ERROR]: Failed to fetch the AquiferContext. Liquid Regions for YUNG's Better Caves may not generate properly.
+[02:01:57] [Worker-Main-3/ERROR]: This is a mod compatibility issue. Please report it to the Better Caves GitHub issue tracker!
+[02:02:00] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2991ms or 59 ticks behind
+[02:03:41] [Server thread/INFO]: Byakko4146 has reached the goal [Choose your path]
+[02:03:46] [Server thread/INFO]: Byakko4146 has made the advancement [Path of Strength]
+[02:03:56] [Server thread/INFO]: Byakko4146 has made the advancement [Taste for Blood]
+[02:04:31] [Server thread/INFO]: Saving data for 241 chunks for dimension 'overworld' took 2 milliseconds
+[02:08:31] [Worker-Main-2/WARN]: Empty height range: [30 absolute-20 absolute]
+[02:09:11] [Server thread/INFO]: Byakko4146 was slain by Gowl the Mad
+[02:09:11] [Server thread/INFO]: Created new backpack backup file for Byakko4146 with unique ID travelersbackpack.standard_18.11.2025-02.09.11.dat
+[02:09:17] [Server thread/INFO]: [Byakko4146: Teleported Byakko4146 to 1036.500000, 63.500000, 203.500000]
+[02:09:17] [Server thread/INFO]: Byakko4146 was slain by Gowl the Mad
+[02:09:17] [Server thread/INFO]: No grave backup generated (empty grave)
+[02:09:20] [Server thread/INFO]: [Byakko4146: Teleported Byakko4146 to 1035.500000, 63.500000, 203.500000]
+[02:09:21] [Server thread/INFO]: Byakko4146 was slain by Gowl the Mad
+[02:09:21] [Server thread/INFO]: No grave backup generated (empty grave)
+[02:09:24] [Server thread/INFO]: [Byakko4146: Teleported Byakko4146 to 1035.500000, 63.500000, 206.500000]
+[02:09:26] [Server thread/INFO]: Byakko4146 claimed a grave belonging to Byakko4146 at 1036, 63, 203, minecraft:overworld
+[02:09:31] [Server thread/INFO]: Saving data for 279 chunks for dimension 'overworld' took 1 milliseconds
+[02:09:51] [Server thread/INFO]: Named entity class_1438['Gowl the Mad'/4296, l='ServerLevel[world]', x=1006.87, y=62.50, z=202.89] died: Gowl the Mad was slain by Byakko4146
+[02:14:31] [Server thread/INFO]: Saving data for 304 chunks for dimension 'overworld' took 3 milliseconds
+[02:15:19] [Server thread/INFO]: Byakko4146 has made the advancement [Campfire Song Song]
+[02:16:19] [Server thread/INFO]: Byakko4146 was chopped to bits by Skirmisher
+[02:16:19] [Server thread/INFO]: Created new backpack backup file for Byakko4146 with unique ID travelersbackpack.standard_18.11.2025-02.16.19.dat
+[02:16:23] [Server thread/INFO]: [Byakko4146: Teleported Byakko4146 to 719.500000, 70.500000, 109.500000]
+[02:16:25] [Server thread/INFO]: Byakko4146 claimed a grave belonging to Byakko4146 at 718, 72, 106, minecraft:overworld
+[02:17:56] [Server thread/INFO]: Byakko4146 was chopped to bits by Skirmisher
+[02:17:56] [Server thread/INFO]: Created new backpack backup file for Byakko4146 with unique ID travelersbackpack.standard_18.11.2025-02.17.56.dat
+[02:18:02] [Server thread/INFO]: [Byakko4146: Teleported Byakko4146 to 684.500000, 70.500000, 53.500000]
+[02:18:11] [Server thread/INFO]: Byakko4146 claimed a grave belonging to Byakko4146 at 675, 70, 41, minecraft:overworld
+[02:19:31] [Server thread/INFO]: Saving data for 343 chunks for dimension 'overworld' took 2 milliseconds
+[02:24:03] [Server thread/INFO]: Named entity class_1613['Brog the Bulwark'/11231, l='ServerLevel[world]', x=1081.86, y=48.00, z=533.54] died: Brog the Bulwark was slain by Byakko4146
+[02:24:31] [Server thread/INFO]: Saving data for 394 chunks for dimension 'overworld' took 2 milliseconds
+[02:26:27] [Server thread/INFO]: Byakko4146 has made the advancement [Base for upgrades]
+[02:26:38] [Server thread/INFO]: Byakko4146 has made the advancement [Iron Tier Upgrade]
+[02:27:07] [Server thread/INFO]: Byakko4146 has made the advancement [Gold Tier Upgrade]
+[02:29:31] [Server thread/INFO]: Saving data for 401 chunks for dimension 'overworld' took 1 milliseconds
+[02:34:31] [Server thread/INFO]: Saving data for 412 chunks for dimension 'overworld' took 2 milliseconds
+[02:37:01] [Server thread/INFO]: Byakko4146 was struck by lightning
+[02:37:01] [Server thread/INFO]: Created new backpack backup file for Byakko4146 with unique ID travelersbackpack.standard_18.11.2025-02.37.01.dat
+[02:37:05] [Server thread/INFO]: [Byakko4146: Teleported Byakko4146 to 1248.500000, 62.500000, 556.500000]
+[02:37:05] [Server thread/INFO]: Byakko4146 claimed a grave belonging to Byakko4146 at 1248, 62, 556, minecraft:overworld
+[02:37:39] [Server thread/INFO]: [Byakko4146: Teleported Byakko4146 to 875.500000, 71.500000, 291.500000]
+[02:37:45] [Server thread/INFO]: [Byakko4146: Teleported Byakko4146 to 974.500000, 66.500000, 80.500000]
+[02:39:31] [Server thread/INFO]: Saving data for 446 chunks for dimension 'overworld' took 2 milliseconds
+[02:42:32] [Server thread/INFO]: Byakko4146 was shot by Starving Sprinter Rust Burning Toxic Pillager
+[02:42:32] [Server thread/INFO]: Created new backpack backup file for Byakko4146 with unique ID travelersbackpack.standard_18.11.2025-02.42.32.dat
+[02:42:36] [Server thread/INFO]: [Byakko4146: Teleported Byakko4146 to 1207.500000, 61.500000, 112.500000]
+[02:42:38] [Server thread/INFO]: Byakko4146 claimed a grave belonging to Byakko4146 at 1205, 62, 112, minecraft:overworld
+[02:43:26] [Server thread/INFO]: Named entity class_1604['Starving Sprinter Rust Burning Toxic Pillager'/16414, l='ServerLevel[world]', x=1197.84, y=62.76, z=112.43] died: Starving Sprinter Rust Burning Toxic Pillager was slain by Byakko4146
+[02:44:31] [Server thread/INFO]: Saving data for 452 chunks for dimension 'overworld' took 1 milliseconds
+[02:47:39] [Server thread/INFO]: Byakko4146 has made the advancement [Unknown Remains]
+[02:49:31] [Server thread/INFO]: Saving data for 452 chunks for dimension 'overworld' took 1 milliseconds
+[02:54:14] [Server thread/INFO]: Byakko4146 has made the advancement [Suit Up]
+[02:54:31] [Server thread/INFO]: Saving data for 452 chunks for dimension 'overworld' took 1 milliseconds
