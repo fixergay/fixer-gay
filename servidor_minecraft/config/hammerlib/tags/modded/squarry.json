@@ -1,0 +1,27 @@
+{
+    "version": 1,
+    "tags": {"minecraft:block": {
+        "squarry:quarry_pipe": {"squarry:quarry_pipe": true},
+        "minecraft:incorrect_for_stone_tool": {
+            "squarry:quarry_pipe": true,
+            "squarry:fuel_quarry": true,
+            "squarry:powered_quarry": true
+        },
+        "minecraft:incorrect_for_wooden_tool": {
+            "squarry:quarry_pipe": true,
+            "squarry:fuel_quarry": true,
+            "squarry:powered_quarry": true
+        },
+        "minecraft:mineable/pickaxe": {
+            "squarry:quarry_pipe": true,
+            "squarry:fuel_quarry": true,
+            "squarry:powered_quarry": true
+        },
+        "minecraft:incorrect_for_gold_tool": {
+            "squarry:quarry_pipe": true,
+            "squarry:fuel_quarry": true,
+            "squarry:powered_quarry": true
+        }
+    }},
+    "unregistered": {}
+}
